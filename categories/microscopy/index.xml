@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Microscopy | Olivier Flasseur</title>
+    <link>olivier-flasseur.github.io/categories/microscopy/</link>
+      <atom:link href="olivier-flasseur.github.io/categories/microscopy/index.xml" rel="self" type="application/rss+xml" />
+    <description>Microscopy</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Microscopy</title>
+      <link>olivier-flasseur.github.io/categories/microscopy/</link>
+    </image>
+    
+    <item>
+      <title>Object detection, characterization and reconstruction from faint signals in images: applications in astronomy and microscopy</title>
+      <link>olivier-flasseur.github.io/other-communication/2020-seminar-detection-characterization-reconstruction/</link>
+      <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>olivier-flasseur.github.io/other-communication/2020-seminar-detection-characterization-reconstruction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accounting for the nonstationary correlated noise in digital holography</title>
+      <link>olivier-flasseur.github.io/int-conf-publication/2020-spie-nonstationary/</link>
+      <pubDate>Mon, 06 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>olivier-flasseur.github.io/int-conf-publication/2020-spie-nonstationary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ExPACO: détection de motifs spatialement étendus dans des images présentant un bruit non stationnaire corrélé</title>
+      <link>olivier-flasseur.github.io/other-communication/2020-jionc-expaco/</link>
+      <pubDate>Wed, 11 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>olivier-flasseur.github.io/other-communication/2020-jionc-expaco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Object detection and characterization from faint signals in images: applications in astronomy and microscopy</title>
+      <link>olivier-flasseur.github.io/thesis-publication/thesis/</link>
+      <pubDate>Tue, 19 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>olivier-flasseur.github.io/thesis-publication/thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ExPACO: detection of an extended pattern under nonstationary correlated noise by patch covariance modeling</title>
+      <link>olivier-flasseur.github.io/int-conf-publication/2019-eusipco-expaco/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>olivier-flasseur.github.io/int-conf-publication/2019-eusipco-expaco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detection and characterization of faint signals in images : application in astronomy and microscopy</title>
+      <link>olivier-flasseur.github.io/other-communication/2019-edsis-popularization/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>olivier-flasseur.github.io/other-communication/2019-edsis-popularization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Numerical reconstruction of holograms using inverse problems approaches</title>
+      <link>olivier-flasseur.github.io/int-conf-publication/2019-osa-invpb/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>olivier-flasseur.github.io/int-conf-publication/2019-osa-invpb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reconstruction of in-line holograms combining model fitting and image-based regularized inversion</title>
+      <link>olivier-flasseur.github.io/int-conf-publication/2019-osa-recons/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>olivier-flasseur.github.io/int-conf-publication/2019-osa-recons/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reconstruction of in-line holograms: combining model-based and regularized inversion</title>
+      <link>olivier-flasseur.github.io/publication/2019-optexp-recons/</link>
+      <pubDate>Tue, 22 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>olivier-flasseur.github.io/publication/2019-optexp-recons/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint reconstruction in in-line holography combining parametric and non-parametric inverse approaches: application to fluid mechanics</title>
+      <link>olivier-flasseur.github.io/other-communication/2018-holophi-recons/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>olivier-flasseur.github.io/other-communication/2018-holophi-recons/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Méthodologie problèmes inverses pour la reconstruction d’hologrammes en ligne d’objets de phase et/ou absorbants</title>
+      <link>olivier-flasseur.github.io/other-communication/2018-holophi-pbinv/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>olivier-flasseur.github.io/other-communication/2018-holophi-pbinv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving color lensless microscopy reconstructions by self-calibration</title>
+      <link>olivier-flasseur.github.io/int-conf-publication/2018-spie-selfrecons/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>olivier-flasseur.github.io/int-conf-publication/2018-spie-selfrecons/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimizing phase object reconstruction using an in-line digital holographic microscope and a reconstruction based on a Lorenz Mie model</title>
+      <link>olivier-flasseur.github.io/int-conf-publication/2018-spie-codesign/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>olivier-flasseur.github.io/int-conf-publication/2018-spie-codesign/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust object characterization from lensless microscopy videos</title>
+      <link>olivier-flasseur.github.io/int-conf-publication/2017-eusipco-robustholo/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>olivier-flasseur.github.io/int-conf-publication/2017-eusipco-robustholo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Auto-étalonnage d’un dispositif d’holographie couleur sans lentille et étude de performances</title>
+      <link>olivier-flasseur.github.io/other-communication/2017-coconception-calibrecons/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>olivier-flasseur.github.io/other-communication/2017-coconception-calibrecons/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-calibration for lensless color microscopy</title>
+      <link>olivier-flasseur.github.io/publication/2017-appopt-self/</link>
+      <pubDate>Thu, 23 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>olivier-flasseur.github.io/publication/2017-appopt-self/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microscopie sans lentille : reconstruction par approche inverse robuste</title>
+      <link>olivier-flasseur.github.io/other-communication/2017-jionc-recons/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>olivier-flasseur.github.io/other-communication/2017-jionc-recons/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Auto-étalonnage couleur pour la microscopie sans lentille</title>
+      <link>olivier-flasseur.github.io/other-communication/2016-holophi-calib/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>olivier-flasseur.github.io/other-communication/2016-holophi-calib/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reconstruction super-résolue d’hologrammes RVB</title>
+      <link>olivier-flasseur.github.io/other-communication/2016-holophi-recons/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>olivier-flasseur.github.io/other-communication/2016-holophi-recons/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

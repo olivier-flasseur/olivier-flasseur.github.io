@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>L. Denneulin | Olivier Flasseur</title>
+    <link>olivier-flasseur.github.io/authors/l.-denneulin/</link>
+      <atom:link href="olivier-flasseur.github.io/authors/l.-denneulin/index.xml" rel="self" type="application/rss+xml" />
+    <description>L. Denneulin</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 13 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>L. Denneulin</title>
+      <link>olivier-flasseur.github.io/authors/l.-denneulin/</link>
+    </image>
+    
+    <item>
+      <title>PDS 70: update on post-processing developments</title>
+      <link>olivier-flasseur.github.io/other-communication/2020-sphere-pds70/</link>
+      <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>olivier-flasseur.github.io/other-communication/2020-sphere-pds70/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

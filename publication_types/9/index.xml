@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>9 | Olivier Flasseur</title>
+    <link>olivier-flasseur.github.io/publication_types/9/</link>
+      <atom:link href="olivier-flasseur.github.io/publication_types/9/index.xml" rel="self" type="application/rss+xml" />
+    <description>9</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 13 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>9</title>
+      <link>olivier-flasseur.github.io/publication_types/9/</link>
+    </image>
+    
+    <item>
+      <title>PDS 70: update on post-processing developments</title>
+      <link>olivier-flasseur.github.io/other-communication/2020-sphere-pds70/</link>
+      <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>olivier-flasseur.github.io/other-communication/2020-sphere-pds70/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ExPACO: détection de motifs spatialement étendus dans des images présentant un bruit non stationnaire corrélé</title>
+      <link>olivier-flasseur.github.io/other-communication/2020-jionc-expaco/</link>
+      <pubDate>Wed, 11 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>olivier-flasseur.github.io/other-communication/2020-jionc-expaco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exoplanet detection in direct imaging by statistical learning of the non-stationary patch covariances – The PACO-based algorithms</title>
+      <link>olivier-flasseur.github.io/other-communication/2019-sphere-pacoset/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>olivier-flasseur.github.io/other-communication/2019-sphere-pacoset/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An unsupervised patch-based approach for exoplanet detection by direct imaging. The PACO algorithm</title>
+      <link>olivier-flasseur.github.io/other-communication/2019-ipmas-paco/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>olivier-flasseur.github.io/other-communication/2019-ipmas-paco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exoplanet detection in angular and spectral differential imaging by a local learning of background correlations</title>
+      <link>olivier-flasseur.github.io/other-communication/2019-jatia-paco/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>olivier-flasseur.github.io/other-communication/2019-jatia-paco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint reconstruction in in-line holography combining parametric and non-parametric inverse approaches: application to fluid mechanics</title>
+      <link>olivier-flasseur.github.io/other-communication/2018-holophi-recons/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>olivier-flasseur.github.io/other-communication/2018-holophi-recons/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Méthodologie problèmes inverses pour la reconstruction d’hologrammes en ligne d’objets de phase et/ou absorbants</title>
+      <link>olivier-flasseur.github.io/other-communication/2018-holophi-pbinv/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>olivier-flasseur.github.io/other-communication/2018-holophi-pbinv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Auto-étalonnage d’un dispositif d’holographie couleur sans lentille et étude de performances</title>
+      <link>olivier-flasseur.github.io/other-communication/2017-coconception-calibrecons/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>olivier-flasseur.github.io/other-communication/2017-coconception-calibrecons/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microscopie sans lentille : reconstruction par approche inverse robuste</title>
+      <link>olivier-flasseur.github.io/other-communication/2017-jionc-recons/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>olivier-flasseur.github.io/other-communication/2017-jionc-recons/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Auto-étalonnage couleur pour la microscopie sans lentille</title>
+      <link>olivier-flasseur.github.io/other-communication/2016-holophi-calib/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>olivier-flasseur.github.io/other-communication/2016-holophi-calib/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reconstruction super-résolue d’hologrammes RVB</title>
+      <link>olivier-flasseur.github.io/other-communication/2016-holophi-recons/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>olivier-flasseur.github.io/other-communication/2016-holophi-recons/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Olivier Flasseur</title>
+    <link>olivier-flasseur.github.io/project/</link>
+      <atom:link href="olivier-flasseur.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 03 Mar 2020 00:36:41 +0100</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Projects</title>
+      <link>olivier-flasseur.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>Signal &amp; Image Processing for Astronomy</title>
+      <link>olivier-flasseur.github.io/project/astronomy/astronomy/</link>
+      <pubDate>Tue, 03 Mar 2020 00:36:41 +0100</pubDate>
+      <guid>olivier-flasseur.github.io/project/astronomy/astronomy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Signal &amp; Image Processing for Microscopy</title>
+      <link>olivier-flasseur.github.io/project/microscopy/microscopy/</link>
+      <pubDate>Tue, 03 Mar 2020 00:36:41 +0100</pubDate>
+      <guid>olivier-flasseur.github.io/project/microscopy/microscopy/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

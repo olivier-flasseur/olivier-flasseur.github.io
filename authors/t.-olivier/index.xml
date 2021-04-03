@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>T. Olivier | Olivier Flasseur</title>
+    <link>olivier-flasseur.github.io/authors/t.-olivier/</link>
+      <atom:link href="olivier-flasseur.github.io/authors/t.-olivier/index.xml" rel="self" type="application/rss+xml" />
+    <description>T. Olivier</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 06 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>T. Olivier</title>
+      <link>olivier-flasseur.github.io/authors/t.-olivier/</link>
+    </image>
+    
+    <item>
+      <title>Accounting for the nonstationary correlated noise in digital holography</title>
+      <link>olivier-flasseur.github.io/int-conf-publication/2020-spie-nonstationary/</link>
+      <pubDate>Mon, 06 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>olivier-flasseur.github.io/int-conf-publication/2020-spie-nonstationary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ExPACO: détection de motifs spatialement étendus dans des images présentant un bruit non stationnaire corrélé</title>
+      <link>olivier-flasseur.github.io/other-communication/2020-jionc-expaco/</link>
+      <pubDate>Wed, 11 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>olivier-flasseur.github.io/other-communication/2020-jionc-expaco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ExPACO: detection of an extended pattern under nonstationary correlated noise by patch covariance modeling</title>
+      <link>olivier-flasseur.github.io/int-conf-publication/2019-eusipco-expaco/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>olivier-flasseur.github.io/int-conf-publication/2019-eusipco-expaco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Numerical reconstruction of holograms using inverse problems approaches</title>
+      <link>olivier-flasseur.github.io/int-conf-publication/2019-osa-invpb/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>olivier-flasseur.github.io/int-conf-publication/2019-osa-invpb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reconstruction of in-line holograms combining model fitting and image-based regularized inversion</title>
+      <link>olivier-flasseur.github.io/int-conf-publication/2019-osa-recons/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>olivier-flasseur.github.io/int-conf-publication/2019-osa-recons/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reconstruction of in-line holograms: combining model-based and regularized inversion</title>
+      <link>olivier-flasseur.github.io/publication/2019-optexp-recons/</link>
+      <pubDate>Tue, 22 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>olivier-flasseur.github.io/publication/2019-optexp-recons/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Méthodologie problèmes inverses pour la reconstruction d’hologrammes en ligne d’objets de phase et/ou absorbants</title>
+      <link>olivier-flasseur.github.io/other-communication/2018-holophi-pbinv/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>olivier-flasseur.github.io/other-communication/2018-holophi-pbinv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimizing phase object reconstruction using an in-line digital holographic microscope and a reconstruction based on a Lorenz Mie model</title>
+      <link>olivier-flasseur.github.io/int-conf-publication/2018-spie-codesign/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>olivier-flasseur.github.io/int-conf-publication/2018-spie-codesign/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

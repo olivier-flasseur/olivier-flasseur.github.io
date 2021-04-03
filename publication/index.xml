@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Olivier Flasseur</title>
+    <link>olivier-flasseur.github.io/publication/</link>
+      <atom:link href="olivier-flasseur.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 21 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Publications</title>
+      <link>olivier-flasseur.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>Unveiling the β Pictoris system, coupling high contrast imaging, interferometric, and radial velocity data</title>
+      <link>olivier-flasseur.github.io/publication/2020-aa-betapic/</link>
+      <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>olivier-flasseur.github.io/publication/2020-aa-betapic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PACO ASDI: an algorithm for exoplanet detection and characterization in direct imaging with integral field spectrographs</title>
+      <link>olivier-flasseur.github.io/publication/2020-aa-paco-asdi/</link>
+      <pubDate>Sat, 14 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>olivier-flasseur.github.io/publication/2020-aa-paco-asdi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robustness to bad frames in angular differential imaging: a local weighting approach</title>
+      <link>olivier-flasseur.github.io/publication/2019-aa-robust-paco/</link>
+      <pubDate>Thu, 07 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>olivier-flasseur.github.io/publication/2019-aa-robust-paco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VLT/SPHERE exploration of the young multiplanetary system PDS70</title>
+      <link>olivier-flasseur.github.io/publication/2019-aa-pds70/</link>
+      <pubDate>Thu, 24 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>olivier-flasseur.github.io/publication/2019-aa-pds70/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Determining mass limits around HD 163296 through SPHERE direct imaging data</title>
+      <link>olivier-flasseur.github.io/publication/2019-mnras-hd163296/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>olivier-flasseur.github.io/publication/2019-mnras-hd163296/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reconstruction of in-line holograms: combining model-based and regularized inversion</title>
+      <link>olivier-flasseur.github.io/publication/2019-optexp-recons/</link>
+      <pubDate>Tue, 22 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>olivier-flasseur.github.io/publication/2019-optexp-recons/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exoplanet detection in angular differential imaging by statistical learning of the nonstationary patch covariances – The PACO algorithm</title>
+      <link>olivier-flasseur.github.io/publication/2018-aa-paco/</link>
+      <pubDate>Thu, 22 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>olivier-flasseur.github.io/publication/2018-aa-paco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-calibration for lensless color microscopy</title>
+      <link>olivier-flasseur.github.io/publication/2017-appopt-self/</link>
+      <pubDate>Thu, 23 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>olivier-flasseur.github.io/publication/2017-appopt-self/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>E. Sissa | Olivier Flasseur</title>
+    <link>olivier-flasseur.github.io/authors/e.-sissa/</link>
+      <atom:link href="olivier-flasseur.github.io/authors/e.-sissa/index.xml" rel="self" type="application/rss+xml" />
+    <description>E. Sissa</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 18 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>E. Sissa</title>
+      <link>olivier-flasseur.github.io/authors/e.-sissa/</link>
+    </image>
+    
+    <item>
+      <title>Determining mass limits around HD 163296 through SPHERE direct imaging data</title>
+      <link>olivier-flasseur.github.io/publication/2019-mnras-hd163296/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>olivier-flasseur.github.io/publication/2019-mnras-hd163296/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,4468 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.7.0">
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Olivier Flasseur">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="Postdoc in signal &amp; image processing">
+
+  
+  <link rel="alternate" hreflang="en-us" href="olivier-flasseur.github.io/">
+
+  
+
+
+  
+  
+  
+  <meta name="theme-color" content="#2962ff">
+  
+
+  
+  
+  
+  <script src="./olivier-flasseur.github.io/js/mathjax-config.js"></script>
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css" integrity="sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+        
+      
+    
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.css" integrity="sha256-SHMGCYmST46SoyGgo4YR/9AlK1vf3ff84Aq9yK4hdqM=" crossorigin="anonymous">
+    
+
+    
+
+    
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.1.2/lazysizes.min.js" integrity="sha256-Md1qLToewPeKjfAHU1zyPwOutccPAm5tahnaw7Osw0A=" crossorigin="anonymous" async></script>
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
+      
+    
+      
+
+      
+      
+
+      
+    
+
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CRoboto:400,400italic,700%7CRoboto+Mono&display=swap">
+  
+
+  
+  
+  
+  
+  <link rel="stylesheet" href="./olivier-flasseur.github.io/css/academic.css">
+
+  
+
+
+
+
+  
+
+
+  
+  <link rel="alternate" href="olivier-flasseur.github.io/index.xml" type="application/rss+xml" title="Olivier Flasseur">
+  
+
+  <link rel="manifest" href="./olivier-flasseur.github.io/index.webmanifest">
+  <link rel="icon" type="image/png" href="./olivier-flasseur.github.io/images/icon_hu6fe43bd177ebbf8dec8879a690da4ed9_448_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="./olivier-flasseur.github.io/images/icon_hu6fe43bd177ebbf8dec8879a690da4ed9_448_192x192_fill_lanczos_center_2.png">
+
+  <link rel="canonical" href="olivier-flasseur.github.io/">
+
+  
+  
+  
+  
+  
+    
+    
+  
+  
+  <meta property="twitter:card" content="summary">
+  
+  <meta property="og:site_name" content="Olivier Flasseur">
+  <meta property="og:url" content="olivier-flasseur.github.io/">
+  <meta property="og:title" content="Olivier Flasseur">
+  <meta property="og:description" content="Postdoc in signal &amp; image processing"><meta property="og:image" content="img/map[gravatar:%!s(bool=false) shape:circle]">
+  <meta property="twitter:image" content="img/map[gravatar:%!s(bool=false) shape:circle]"><meta property="og:locale" content="en-us">
+  
+    <meta property="og:updated_time" content="2021-01-21T00:00:00&#43;00:00">
+  
+
+  
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "olivier-flasseur.github.io?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  },
+  "url": "olivier-flasseur.github.io"
+}
+</script>
+
+
+  
+
+
+  
+
+
+  
+
+
+
+
+
+  <title>Olivier Flasseur</title>
+
+</head>
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#navbar-main" >
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  
+
+
+
+
+
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+  <div class="container">
+
+    
+
+    
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+
+      
+      <ul class="navbar-nav d-md-inline-flex">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="./olivier-flasseur.github.io/#about"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="./olivier-flasseur.github.io/#experience"><span>Experience</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="./olivier-flasseur.github.io/#publications"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="./olivier-flasseur.github.io/#contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+      </ul>
+    </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+      
+      <li class="nav-item">
+        <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
+      
+
+      
+      <li class="nav-item">
+        <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
+      </li>
+      
+
+      
+
+    </ul>
+
+  </div>
+</nav>
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+<span class="js-widget-page d-none"></span>
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  <section id="about" class="home-section wg-about   "  >
+    <div class="container">
+      
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+<div class="row">
+  <div class="col-12 col-lg-4">
+    <div id="profile">
+
+      
+      
+      <img class="avatar avatar-circle" src="./olivier-flasseur.github.io/authors/admin/avatar_hu1a3d772dc92ac819f2ce1cf4a6385142_21658_270x270_fill_q90_lanczos_center.jpg" alt="Avatar">
+      
+
+      <div class="portrait-title">
+        <h2>Olivier Flasseur</h2>
+        <h3>Postdoc in signal &amp; image processing</h3>
+
+        
+        <h3>
+          <a href="https://cral.univ-lyon1.fr/" target="_blank" rel="noopener">
+          <span>Observatory of Lyon</span>
+          </a>
+        </h3>
+        
+      </div>
+
+      <ul class="network-icon" aria-hidden="true">
+        
+        
+        
+        
+          
+        
+        
+        
+        
+        
+        <li>
+          <a href="mailto:olivier.flasseur@univ-lyon1.fr" >
+            <i class="fas fa-envelope big-icon"></i>
+          </a>
+        </li>
+        
+        
+        
+        
+          
+        
+        
+        
+        
+        
+          
+        
+        <li>
+          <a href="https://www.researchgate.net/profile/Olivier_Flasseur" target="_blank" rel="noopener">
+            <i class="fab fa-researchgate big-icon"></i>
+          </a>
+        </li>
+        
+        
+        
+        
+          
+        
+        
+        
+        
+        
+          
+        
+        <li>
+          <a href="https://fr.linkedin.com/in/olivier-flasseur-b2577760" target="_blank" rel="noopener">
+            <i class="fab fa-linkedin big-icon"></i>
+          </a>
+        </li>
+        
+      </ul>
+
+    </div>
+  </div>
+  <div class="col-12 col-lg-8">
+
+    
+    <h1>Bio</h1>
+
+    <p>I am a postdoc at the 
+<a href="https://cral.univ-lyon1.fr/" target="_blank" rel="noopener">Astrophysics Research Center of Lyon</a> (Observatory of Lyon). I am working on the development of signal and image processing methods to detect and reconstruct objects from faint signals in images.
+The main application of my current research work is high-contrast imaging for direct detection of circumstellar disks.</p>
+<p>Previously, I was a PhD student at the 
+<a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/index.html" target="_blank" rel="noopener">Hubert Curien Laboratory</a> of Saint-Etienne under the supervision of 
+<a href="https://www.researchgate.net/profile/Corinne_Fournier" target="_blank" rel="noopener">Corinne Fournier</a> and 
+<a href="https://perso.univ-st-etienne.fr/deniloic/" target="_blank" rel="noopener">Loïc Denis</a>. I worked on the development of algorithms dedicated to the detection of exoplanets by direct imaging, in astronomy,
+and of particles by digital holography, in microscopy. Emphasis was put on the development of common methodological tools, particularly in terms of statistical modeling of the background noise, robustness of the proposed methods, and the exploitation of temporo-spectral information redundancy.</p>
+
+
+    <div class="row">
+
+      
+      <div class="col-md-5">
+        <h3>Interests</h3>
+        <ul class="ul-interests">
+          
+          <li>Detection &amp; estimation</li>
+          
+          <li>Inverse problems</li>
+          
+          <li>Image reconstruction</li>
+          
+          <li>Faint signals</li>
+          
+          <li>Time &amp; spectral series</li>
+          
+          <li>Direct imaging (astronomy)</li>
+          
+          <li>Holography (microscopy)</li>
+          
+        </ul>
+      </div>
+      
+
+      
+      <div class="col-md-7">
+        <h3>Education</h3>
+        <ul class="ul-edu fa-ul">
+          
+          <li>
+            <i class="fa-li fas fa-graduation-cap"></i>
+            <div class="description">
+              <p class="course">PhD in Image &amp; Vision, 2019</p>
+              <p class="institution">University of Lyon, University of Saint-Etienne</p>
+            </div>
+          </li>
+          
+          <li>
+            <i class="fa-li fas fa-graduation-cap"></i>
+            <div class="description">
+              <p class="course">Engineer degree in Signal, Image, Communication, Multimedia, 2015</p>
+              <p class="institution">Phelma, Grenoble INP</p>
+            </div>
+          </li>
+          
+        </ul>
+      </div>
+      
+
+    </div>
+  </div>
+</div>
+
+    </div>
+  </section>
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  <section id="experience" class="home-section wg-experience   "  >
+    <div class="container">
+      
+
+
+
+<div class="row">
+  <div class="col-12 col-lg-4 section-heading">
+    <h1>Experience</h1>
+    
+  </div>
+  <div class="col-12 col-lg-8">
+    
+
+    
+    
+    
+    <div class="row experience">
+      
+      <div class="col-auto text-center flex-column d-none d-sm-flex">
+        <div class="row h-50">
+          <div class="col ">&nbsp;</div>
+          <div class="col">&nbsp;</div>
+        </div>
+        <div class="m-2">
+          <span class="badge badge-pill border exp-fill">&nbsp;</span>
+        </div>
+        <div class="row h-50">
+          <div class="col border-right">&nbsp;</div>
+          <div class="col">&nbsp;</div>
+        </div>
+      </div>
+      
+      <div class="col py-2">
+        <div class="card">
+          <div class="card-body">
+            <h4 class="card-title exp-title text-muted mt-0 mb-1">Postdoc in signal &amp; image processing</h4>
+            <h4 class="card-title exp-company text-muted my-0"><a href="https://cral.univ-lyon1.fr/" target="_blank" rel="noopener">Astrophysical Research Center of Lyon</a></h4>
+            <div class="text-muted exp-meta">
+              Feb 2020 –
+              
+                Present
+              
+              
+                <span class="middot-divider"></span>
+                <span>Saint-Genis-Laval, France</span>
+              
+            </div>
+            <div class="card-text">Reconstruction of extended objects in the low signal-to-noise ratio regime.</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <div class="row experience">
+      
+      <div class="col-auto text-center flex-column d-none d-sm-flex">
+        <div class="row h-50">
+          <div class="col border-right">&nbsp;</div>
+          <div class="col">&nbsp;</div>
+        </div>
+        <div class="m-2">
+          <span class="badge badge-pill border ">&nbsp;</span>
+        </div>
+        <div class="row h-50">
+          <div class="col border-right">&nbsp;</div>
+          <div class="col">&nbsp;</div>
+        </div>
+      </div>
+      
+      <div class="col py-2">
+        <div class="card">
+          <div class="card-body">
+            <h4 class="card-title exp-title text-muted mt-0 mb-1">PhD student in signal &amp; image processing</h4>
+            <h4 class="card-title exp-company text-muted my-0"><a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/index.html" target="_blank" rel="noopener">Hubert Curien Laboratory</a></h4>
+            <div class="text-muted exp-meta">
+              Oct 2016 –
+              
+                Nov 2019
+              
+              
+                <span class="middot-divider"></span>
+                <span>Saint-Etienne, France</span>
+              
+            </div>
+            <div class="card-text">Object detection and characterization from faint signals in images: applications in astronomy and microscopy.</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <div class="row experience">
+      
+      <div class="col-auto text-center flex-column d-none d-sm-flex">
+        <div class="row h-50">
+          <div class="col border-right">&nbsp;</div>
+          <div class="col">&nbsp;</div>
+        </div>
+        <div class="m-2">
+          <span class="badge badge-pill border ">&nbsp;</span>
+        </div>
+        <div class="row h-50">
+          <div class="col ">&nbsp;</div>
+          <div class="col">&nbsp;</div>
+        </div>
+      </div>
+      
+      <div class="col py-2">
+        <div class="card">
+          <div class="card-body">
+            <h4 class="card-title exp-title text-muted mt-0 mb-1">Teaching assistant in engineering school</h4>
+            <h4 class="card-title exp-company text-muted my-0"><a href="https://www.telecom-st-etienne.fr/" target="_blank" rel="noopener">Télécom Saint-Etienne</a></h4>
+            <div class="text-muted exp-meta">
+              Oct 2016 –
+              
+                Nov 2019
+              
+              
+                <span class="middot-divider"></span>
+                <span>Saint-Etienne, France</span>
+              
+            </div>
+            <div class="card-text">Tutorials in signal &amp; image processing to students at Bachelor and Master level.</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    
+  </div>
+</div>
+
+    </div>
+  </section>
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  <section id="publications" class="home-section wg-pages   "  >
+    <div class="container">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+<div class="row">
+  <div class="col-12 col-lg-4 section-heading">
+    <h1>Publications</h1>
+    <p>Journals</p>
+  </div>
+  <div class="col-12 col-lg-8">
+
+    
+
+    
+      
+        
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="olivier-flasseur.github.io/publication/2020-aa-betapic/" >Unveiling the β Pictoris system, coupling high contrast imaging, interferometric, and radial velocity data</a>
+    </h3>
+
+    
+    <div class="article-style">
+      <em>Context.</em> The nearby and young β Pictoris system hosts a well resolved disk, a directly imaged massive giant planet orbiting at ≃9 au, …
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+
+
+  
+  <span>A.-M. Lagrange</span>, <span>P. Rubini</span>, <span>M. Nowak</span>, <span>S. Lacour</span>, <span>A. Grandjean</span>, <span>A. Boccaletti</span>, <span>M. Langlois</span>, <span>P. Delorme</span>, <span>R. Gratton</span>, <span>J. Wang</span>, <span><strong>O. Flasseur</strong></span>, <span>R. Galicher</span>, <span>Q. Kral</span>, <span>N. Meunier</span>, <span>H. Beust</span>, <span>C. Babusiaux</span>, <span>H. Le Coroller</span>, <span>P. Thebault</span>, <span>P. Kervella</span>, <span>A. Zurlo</span>, <span>A.-L. Maire</span>, <span>Z. Wahhaj</span>, <span>A. Amorim</span>, <span>R. Asensio-Torres</span>, <span>M. Benisty</span>, <span>J.P. Berger</span>, <span>M. Bonnefoy</span>, <span>W. Brandner</span>, <span>F. Cantalloube</span>, <span>B. Charnay</span>, <span>G. Chauvin</span>, <span>E. Choquet</span>, <span>Y. Clénet</span>, <span>V. Christiaens</span>, <span>V. Coudé du Foresto</span>, <span>P.T. de Zeeuw</span>, <span>S. Desidera</span>, <span>G. Duvert</span>, <span>A. Eckart</span>, <span>F. Eisenhauer</span>, <span>F. Galland</span>, <span>F. Gao, P. Garcia</span>, <span>R. Garcia Lopez</span>, <span>E. Gendron</span>, <span>R. Genzel</span>, <span>S. Gillessen</span>, <span>J. Girard</span>, <span>J. Hagelberg</span>, <span>X. Haubois</span>, <span>T. Henning</span>, <span>G. Heissel</span>, <span>S. Hippler</span>, <span>M. Horrobin</span>, <span>M. Janson</span>, <span>J. Kammerer</span>, <span>M. Kenworthy</span>, <span>M. Keppler</span>, <span>L. Kreidberg</span>, <span>V. Lapeyrère</span>, <span>J.-B. Le Bouquin</span>, <span>P. Léna</span>, <span>A. Mérand</span>, <span>S. Messina</span>, <span>P. Mollière</span>, <span>J.D. Monnier</span>, <span>T. Ott</span>, <span>G. Otten</span>, <span>T. Paumard</span>, <span>C. Paladini</span>, <span>K. Perraut</span>, <span>G. Perrin</span>, <span>L. Pueyo</span>, <span>O. Pfuhl</span>, <span>L. Rodet</span>, <span>G. Rodriguez-Coira</span>, <span>G. Rousset</span>, <span>M. Samland</span>, <span>J. Shangguan</span>, <span>T. Schmidt</span>, <span>O. Straub</span>, <span>C. Straubmeier</span>, <span>T. Stolker</span>, <span>A. Vigan</span>, <span>F. Vincent</span>, <span>F. Widmann</span>, <span>J. Woillez</span>, <span><a href="olivier-flasseur.github.io/authors/and-the-gravity-collaboration/">and The GRAVITY Collaboration</a></span>
+
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.aanda.org/articles/aa/pdf/2020/10/aa38823-20.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/https://doi.org/10.1051/0004-6361/202038823" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="olivier-flasseur.github.io/publication/2020-aa-betapic/" >
+      <img src="./olivier-flasseur.github.io/publication/2020-aa-betapic/featured_hu49b6aaf499d9bedf2f4ff41770619973_36799_150x0_resize_lanczos_2.png" alt="">
+    </a>
+    
+  </div>
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="olivier-flasseur.github.io/publication/2020-aa-paco-asdi/" >PACO ASDI: an algorithm for exoplanet detection and characterization in direct imaging with integral field spectrographs</a>
+    </h3>
+
+    
+    <div class="article-style">
+      <em>Context.</em> Exoplanet detection and characterization by direct imaging both rely on sophisticated instruments (adaptive optics and …
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+
+
+  
+  <span><strong>O. Flasseur</strong></span>, <span>L. Denis</span>, <span>É. Thiébaut</span>, <span>M. Langlois</span>
+
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.aanda.org/articles/aa/pdf/forth/aa37239-19.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/https://doi.org/10.1051/0004-6361/201937239" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="olivier-flasseur.github.io/publication/2020-aa-paco-asdi/" >
+      <img src="./olivier-flasseur.github.io/publication/2020-aa-paco-asdi/featured_hua4f809315ed12a35e212142482f93069_353122_150x0_resize_lanczos_2.png" alt="">
+    </a>
+    
+  </div>
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="olivier-flasseur.github.io/publication/2019-aa-robust-paco/" >Robustness to bad frames in angular differential imaging: a local weighting approach</a>
+    </h3>
+
+    
+    <div class="article-style">
+      <em>Context.</em> The detection of exoplanets by direct imaging is very challenging. It requires an extreme adaptive-optics (AO) system and a …
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+
+
+  
+  <span><strong>O. Flasseur</strong></span>, <span>L. Denis</span>, <span>É. Thiébaut</span>, <span>M. Langlois</span>
+
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.aanda.org/articles/aa/pdf/2020/02/aa35859-19.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/https://doi.org/10.1051/0004-6361/201935859" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="olivier-flasseur.github.io/publication/2019-aa-robust-paco/" >
+      <img src="./olivier-flasseur.github.io/publication/2019-aa-robust-paco/featured_hu18ad379ac60a9bac02a72b0454d43307_4929010_150x0_resize_lanczos_2.png" alt="">
+    </a>
+    
+  </div>
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="olivier-flasseur.github.io/publication/2019-aa-pds70/" >VLT/SPHERE exploration of the young multiplanetary system PDS70</a>
+    </h3>
+
+    
+    <div class="article-style">
+      <em>Context.</em> PDS 70 is a young (5.4 Myr), nearby (~113 pc) star hosting a known transition disk with a large gap. Recent observations with …
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+
+
+  
+  <span>D. Mesa</span>, <span>M. Keppler</span>, <span>F. Cantalloube</span>, <span>L. Rodet</span>, <span>B. Charnay</span>, <span>R. Gratton</span>, <span>M. Langlois</span>, <span>A. Boccaletti</span>, <span>M. Bonnefoy</span>, <span>A. Vigan</span>, <span><strong>O. Flasseur</strong></span>, <span>J. Bae</span>, <span>M. Benisty</span>, <span>G. Chauvin</span>, <span>J. de Boer</span>, <span>S. Desidera</span>, <span>T. Henning</span>, <span>A.-M. Lagrange</span>, <span>M. Meyer</span>, <span>J. Milli</span>, <span>A. Müller</span>, <span>B. Pairet</span>, <span>A. Zurlo</span>, <span>S. Antoniucci</span>, <span>J.-L. Baudino</span>, <span>S. Brown Sevilla</span>, <span>E. Cascone</span>, <span>A. Cheetham</span>, <span>R.U. Claudi</span>, <span>P. Delorme</span>, <span>V. D’Orazi</span>, <span>M. Feldt</span>, <span>J. Hagelberg</span>, <span>M. Janson</span>, <span>Q. Kral</span>, <span>E. Lagadec</span>, <span>C. Lazzoni</span>, <span>R. Ligi</span>, <span>A.-L. Maire</span>, <span>P. Martinez</span>, <span>F. Menard</span>, <span>N. Meunier</span>, <span>C. Perrot</span>, <span>S. Petrus</span>, <span>E.L. Rickman</span>, <span>S. Rochat</span>, <span>D. Rouan</span>, <span>M. Samland</span>, <span>J.-F. Sauvage</span>, <span>T. Schmidt</span>, <span>L. Weber</span>, <span>F. Wildi</span>
+
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/pdf/1910.11169.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/https://doi.org/10.1051/0004-6361/201936764" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="olivier-flasseur.github.io/publication/2019-aa-pds70/" >
+      <img src="./olivier-flasseur.github.io/publication/2019-aa-pds70/featured_huf461f5a67b721479c975a4ea56ba851e_63616_150x0_resize_lanczos_2.png" alt="">
+    </a>
+    
+  </div>
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="olivier-flasseur.github.io/publication/2019-mnras-hd163296/" >Determining mass limits around HD 163296 through SPHERE direct imaging data</a>
+    </h3>
+
+    
+    <div class="article-style">
+      HD 163296 is a Herbig Ae/Be star known to host a protoplanetary disk with a ringed structure. To explain the disk features, previous …
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+
+
+  
+  <span>D. Mesa</span>, <span>M. Langlois</span>, <span>A. Garufi</span>, <span>R. Gratton</span>, <span>S. Desidera</span>, <span>V. D’Orazi</span>, <span><strong>O. Flasseur</strong></span>, <span>M. Barbieri</span>, <span>M. Benisty</span>, <span>T. Henning</span>, <span>R. Ligi</span>, <span>E. Sissa</span>, <span>A. Vigan</span>, <span>A. Zurlo</span>, <span>A. Boccaletti</span>, <span>M. Bonnefoy</span>, <span>F. Cantalloube</span>, <span>G. Chauvin</span>, <span>A. Cheetham</span>, <span>V. De Caprio</span>, <span>P. Delorme</span>, <span>M. Feldt</span>, <span>T. Fusco</span>, <span>L. Gluck</span>, <span>J. Hagelberg</span>, <span>A.-M. Lagrange</span>, <span>C. Lazzoni</span>, <span>F. Madec</span>, <span>A.-L. Maire</span>, <span>F. Menard</span>, <span>M. Meyer</span>, <span>J. Ramos</span>, <span>E.L. Rickman</span>, <span>D. Rouan</span>, <span>T. Schmidt</span>
+
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/pdf/1906.05663.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/https://doi.org/10.1093/mnras/stz1662" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="olivier-flasseur.github.io/publication/2019-mnras-hd163296/" >
+      <img src="./olivier-flasseur.github.io/publication/2019-mnras-hd163296/featured_hue84c579b77d232b07befc7672253d4fe_173282_150x0_resize_lanczos_2.png" alt="">
+    </a>
+    
+  </div>
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="olivier-flasseur.github.io/publication/2019-optexp-recons/" >Reconstruction of in-line holograms: combining model-based and regularized inversion</a>
+    </h3>
+
+    
+    <div class="article-style">
+      In-line digital holography is a simple yet powerful tool to image absorbing and/or phase objects. Nevertheless, the loss of the phase …
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+
+
+  
+  <span>A. Berdeu</span>, <span><strong>O. Flasseur</strong></span>, <span>L. Méès</span>, <span>L. Denis</span>, <span>F. Momey</span>, <span>T. Olivier</span>, <span>N. Grosjean</span>, <span>C. Fournier</span>
+
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.osapublishing.org/DirectPDFAccess/EBA2A673-D2F0-4BDA-4AA6AFE5BECFBB16_412262/oe-27-10-14951.pdf?da=1&amp;id=412262&amp;seq=0&amp;mobile=no" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/https://doi.org/10.1364/OE.27.014951" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="olivier-flasseur.github.io/publication/2019-optexp-recons/" >
+      <img src="./olivier-flasseur.github.io/publication/2019-optexp-recons/featured_hu2c9b4a7123c86ab72c631068c2ca100e_2518034_150x0_resize_lanczos_2.png" alt="">
+    </a>
+    
+  </div>
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="olivier-flasseur.github.io/publication/2018-aa-paco/" >Exoplanet detection in angular differential imaging by statistical learning of the nonstationary patch covariances – The PACO algorithm</a>
+    </h3>
+
+    
+    <div class="article-style">
+      <em>Context.</em> The detection of exoplanets by direct imaging is an active research topic in astronomy. Even with the coupling of an extreme …
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+
+
+  
+  <span><strong>O. Flasseur</strong></span>, <span>L. Denis</span>, <span>É. Thiébaut</span>, <span>M. Langlois</span>
+
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.aanda.org/articles/aa/pdf/2018/10/aa32745-18.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/https://doi.org/10.1051/0004-6361/201832745" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="olivier-flasseur.github.io/publication/2018-aa-paco/" >
+      <img src="./olivier-flasseur.github.io/publication/2018-aa-paco/featured_hu9f701a331f95ccb946f31aac2c789375_934717_150x0_resize_lanczos_2.png" alt="">
+    </a>
+    
+  </div>
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="olivier-flasseur.github.io/publication/2017-appopt-self/" >Self-calibration for lensless color microscopy</a>
+    </h3>
+
+    
+    <div class="article-style">
+      Lensless color microscopy (also called in-line digital color holography) is a recent quantitative 3D imaging method used in several …
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+
+
+  
+  <span><strong>O. Flasseur</strong></span>, <span>C. Fournier</span>, <span>N. Verrier</span>, <span>L. Denis</span>, <span>F. Jolivet</span>, <span>A. Cazier</span>, <span>T. Lépine</span>
+
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.researchgate.net/publication/315791922_Self-calibration_for_lensless_color_microscopy" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/https://doi.org/10.1364/AO.56.00F189" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="olivier-flasseur.github.io/publication/2017-appopt-self/" >
+      <img src="./olivier-flasseur.github.io/publication/2017-appopt-self/featured_hu213c0eb61ee4a20d20ad3243d9447981_230015_150x0_resize_lanczos_2.png" alt="">
+    </a>
+    
+  </div>
+</div>
+
+      
+    
+
+    
+
+  </div>
+</div>
+
+    </div>
+  </section>
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  <section id="int-conf-publications" class="home-section wg-pages   "  >
+    <div class="container">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+<div class="row">
+  <div class="col-12 col-lg-4 section-heading">
+    <h1>Publications</h1>
+    <p>International conferences</p>
+  </div>
+  <div class="col-12 col-lg-8">
+
+    
+
+    
+      
+        
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="olivier-flasseur.github.io/int-conf-publication/2020-eusipco-fdr/" >Finding meaningful detections: false discovery rate control in correlated detection maps</a>
+    </h3>
+
+    
+    <div class="article-style">
+      The detection of faint sources is a key step in several areas of signal and image processing. The reliability of the detection depends …
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+
+
+  
+  <span><strong>O. Flasseur</strong></span>, <span>L. Denis</span>, <span>É. Thiébaut</span>, <span>M. Langlois</span>
+
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Jan 21, 2021
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="olivier-flasseur.github.io/categories/astronomy/">Astronomy</a></span>
+  
+
+</div>
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="olivier-flasseur.github.io/int-conf-publication/2020-eusipco-fdr/" >
+      <img src="./olivier-flasseur.github.io/int-conf-publication/2020-eusipco-fdr/featured_hud69543b0b4e0791309981b53c307da7b_675610_150x0_resize_lanczos_2.png" alt="">
+    </a>
+    
+  </div>
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="olivier-flasseur.github.io/int-conf-publication/2020-spie-datachallenge/" >Exoplanet imaging data challenge: benchmarking the various image processing methods for exoplanet detection</a>
+    </h3>
+
+    
+    <div class="article-style">
+      The Exoplanet Imaging Data Challenge is a community-wide effort meant to offer a platform for a fair and common comparison of image …
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+
+
+  
+  <span>F. Cantalloube</span>, <span>C. Gomez-Gonzalez</span>, <span>O. Absil</span>, <span>C. Cantero</span>, <span>R. Bacher</span>, <span>M. J. Bonse</span>, <span>M. Bottom</span>, <span>C.-H. Dahlqvist</span>, <span>C. Desgrange</span>, <span><strong>O. Flasseur</strong></span>, <span>T. Fuhrmann</span>, <span>Th. Henning</span>, <span>R. Jensen-Clem</span>, <span>M. Kenworthy</span>, <span>D. Mawet</span>, <span>D. Mesa</span>, <span>T. Meshkat</span>, <span>D. Mouillet</span>, <span>A. Mueller</span>, <span>E. Nasedkin</span>, <span>B. Pairet</span>, <span>S. Pierard</span>, <span>J.-B. Ruffio</span>, <span>M. Samland</span>, <span>J. Stone</span>, <span>M. Van Droogenbroeck</span>
+
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Dec 13, 2020
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="olivier-flasseur.github.io/categories/astronomy/">Astronomy</a></span>
+  
+
+</div>
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="olivier-flasseur.github.io/int-conf-publication/2020-spie-datachallenge/" >
+      <img src="./olivier-flasseur.github.io/int-conf-publication/2020-spie-datachallenge/featured_hu6e747721168c09577119e09255f0e6ba_2354715_150x0_resize_lanczos_2.png" alt="">
+    </a>
+    
+  </div>
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="olivier-flasseur.github.io/int-conf-publication/2020-spie-nonstationary/" >Accounting for the nonstationary correlated noise in digital holography</a>
+    </h3>
+
+    
+    <div class="article-style">
+      In in-line digital holography, the background of the recorded images is sometimes much higher than the signal of interest. It can …
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+
+
+  
+  <span><strong>O. Flasseur</strong></span>, <span>L. Denis</span>, <span>É. Thiébaut</span>, <span>T. Olivier</span>, <span>C. Fournier</span>
+
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Apr 6, 2020
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="olivier-flasseur.github.io/categories/microscopy/">Microscopy</a></span>
+  
+
+</div>
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="olivier-flasseur.github.io/int-conf-publication/2020-spie-nonstationary/" >
+      <img src="./olivier-flasseur.github.io/int-conf-publication/2020-spie-nonstationary/featured_hu9c0bceff03d9473cd076a650c9db4cc9_154605_150x0_resize_lanczos_2.png" alt="">
+    </a>
+    
+  </div>
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="olivier-flasseur.github.io/int-conf-publication/2019-eusipco-expaco/" >ExPACO: detection of an extended pattern under nonstationary correlated noise by patch covariance modeling</a>
+    </h3>
+
+    
+    <div class="article-style">
+      In several areas of imaging, it is necessary to detect the weak signal of a known pattern superimposed over a background. Because of …
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+
+
+  
+  <span><strong>O. Flasseur</strong></span>, <span>L. Denis</span>, <span>É. Thiébaut</span>, <span>T. Olivier</span>, <span>C. Fournier</span>
+
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Sep 1, 2019
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="olivier-flasseur.github.io/categories/microscopy/">Microscopy</a></span>
+  
+
+</div>
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="olivier-flasseur.github.io/int-conf-publication/2019-eusipco-expaco/" >
+      <img src="./olivier-flasseur.github.io/int-conf-publication/2019-eusipco-expaco/featured_hu5da53aefad5a405c04fd1759996416e5_181089_150x0_resize_lanczos_2.png" alt="">
+    </a>
+    
+  </div>
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="olivier-flasseur.github.io/int-conf-publication/2019-osa-invpb/" >Numerical reconstruction of holograms using inverse problems approaches</a>
+    </h3>
+
+    
+    <div class="article-style">
+      Several reconstruction approaches based on inverse problems (also called compressive sensing, Bayesian approaches, model fitting) have …
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+
+
+  
+  <span>C. Fournier</span>, <span><strong>O. Flasseur</strong></span>, <span>A. Berdeu</span>, <span>F. Momey</span>, <span>T. Olivier</span>, <span>L. Denis</span>
+
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    May 1, 2019
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="olivier-flasseur.github.io/categories/microscopy/">Microscopy</a></span>
+  
+
+</div>
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="olivier-flasseur.github.io/int-conf-publication/2019-osa-recons/" >Reconstruction of in-line holograms combining model fitting and image-based regularized inversion</a>
+    </h3>
+
+    
+    <div class="article-style">
+      We propose to reconstruct in-line holograms using a joint forward model on samples composed of a simple subpart estimated by model …
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+
+
+  
+  <span>A. Berdeu</span>, <span><strong>O. Flasseur</strong></span>, <span>L. Méès</span>, <span>L. Denis</span>, <span>F. Momey</span>, <span>T. Olivier</span>, <span>N. Grosjean</span>, <span>C. Fournier</span>
+
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    May 1, 2019
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="olivier-flasseur.github.io/categories/microscopy/">Microscopy</a></span>
+  
+
+</div>
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="olivier-flasseur.github.io/int-conf-publication/2019-osa-recons/" >
+      <img src="./olivier-flasseur.github.io/int-conf-publication/2019-osa-recons/featured_hu2c9b4a7123c86ab72c631068c2ca100e_2518034_150x0_resize_lanczos_2.png" alt="">
+    </a>
+    
+  </div>
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="olivier-flasseur.github.io/int-conf-publication/2018-icip-autopaco/" >An unsupervised patch-based approach for exoplanet detection by direct imaging</a>
+    </h3>
+
+    
+    <div class="article-style">
+      The search for exoplanet is a very active topic in astronomy. Exoplanet detection by direct imaging requires both dedicated instruments …
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+
+
+  
+  <span><strong>O. Flasseur</strong></span>, <span>L. Denis</span>, <span>É. Thiébaut</span>, <span>M. Langlois</span>
+
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Oct 1, 2018
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="olivier-flasseur.github.io/categories/astronomy/">Astronomy</a></span>
+  
+
+</div>
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="olivier-flasseur.github.io/int-conf-publication/2018-icip-autopaco/" >
+      <img src="./olivier-flasseur.github.io/int-conf-publication/2018-icip-autopaco/featured_hucba830bac31da0a284747f5fade1de7d_1825714_150x0_resize_lanczos_2.png" alt="">
+    </a>
+    
+  </div>
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="olivier-flasseur.github.io/int-conf-publication/2018-spie-ifspaco/" >Exoplanet detection in angular and spectral differential imaging: local learning of background correlations for improved detection</a>
+    </h3>
+
+    
+    <div class="article-style">
+      The search for new exoplanets by direct imaging is a very active research topic in astronomy. The detection is particularly challenging …
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+
+
+  
+  <span><strong>O. Flasseur</strong></span>, <span>L. Denis</span>, <span>É. Thiébaut</span>, <span>M. Langlois</span>
+
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Jun 1, 2018
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="olivier-flasseur.github.io/categories/astronomy/">Astronomy</a></span>
+  
+
+</div>
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="olivier-flasseur.github.io/int-conf-publication/2018-spie-ifspaco/" >
+      <img src="./olivier-flasseur.github.io/int-conf-publication/2018-spie-ifspaco/featured_hudaee09d4ac1370246d7d53f9fc348f2b_492500_150x0_resize_lanczos_2.png" alt="">
+    </a>
+    
+  </div>
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="olivier-flasseur.github.io/int-conf-publication/2018-spie-selfrecons/" >Improving color lensless microscopy reconstructions by self-calibration</a>
+    </h3>
+
+    
+    <div class="article-style">
+      Lensless color microscopy is a recent 3D quantitative imaging method allowing to retrieve physical parameters characterizing …
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+
+
+  
+  <span><strong>O. Flasseur</strong></span>, <span>F. Jolivet</span>, <span>F. Momey</span>, <span>L. Denis</span>, <span>C. Fournier</span>
+
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    May 1, 2018
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="olivier-flasseur.github.io/categories/microscopy/">Microscopy</a></span>
+  
+
+</div>
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="olivier-flasseur.github.io/int-conf-publication/2018-spie-selfrecons/" >
+      <img src="./olivier-flasseur.github.io/int-conf-publication/2018-spie-selfrecons/featured_hu5922ccf7017ca48ee3ae162b3fa308f5_801026_150x0_resize_lanczos_2.png" alt="">
+    </a>
+    
+  </div>
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="olivier-flasseur.github.io/int-conf-publication/2018-spie-codesign/" >Optimizing phase object reconstruction using an in-line digital holographic microscope and a reconstruction based on a Lorenz Mie model</a>
+    </h3>
+
+    
+    <div class="article-style">
+      Among the various configurations that may be used in digital holography, the original in-line “Gabor” configuration is the simplest …
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+
+
+  
+  <span>T. Olivier</span>, <span><strong>O. Flasseur</strong></span>, <span>L. Méès</span>, <span>C. Fournier</span>
+
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    May 1, 2018
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="olivier-flasseur.github.io/categories/microscopy/">Microscopy</a></span>
+  
+
+</div>
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="olivier-flasseur.github.io/int-conf-publication/2018-spie-codesign/" >
+      <img src="./olivier-flasseur.github.io/int-conf-publication/2018-spie-codesign/featured_hu72189c718a2ea9501146e893642f4497_1179817_150x0_resize_lanczos_2.png" alt="">
+    </a>
+    
+  </div>
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="olivier-flasseur.github.io/int-conf-publication/2017-eusipco-robustholo/" >Robust object characterization from lensless microscopy videos</a>
+    </h3>
+
+    
+    <div class="article-style">
+      Lensless microscopy, also known as in-line digital holography, is a 3D quantitative imaging method used in various fields including …
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+
+
+  
+  <span><strong>O. Flasseur</strong></span>, <span>L. Denis</span>, <span>C. Fournier</span>, <span>É. Thiébaut</span>
+
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Sep 1, 2017
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="olivier-flasseur.github.io/categories/microscopy/">Microscopy</a></span>
+  
+
+</div>
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="olivier-flasseur.github.io/int-conf-publication/2017-eusipco-robustholo/" >
+      <img src="./olivier-flasseur.github.io/int-conf-publication/2017-eusipco-robustholo/featured_hu8e2aca961644eb9b5efc4c106b9f0901_5316684_150x0_resize_lanczos_2.png" alt="">
+    </a>
+    
+  </div>
+</div>
+
+      
+    
+
+    
+
+  </div>
+</div>
+
+    </div>
+  </section>
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  <section id="nat-conf-publications" class="home-section wg-pages   "  >
+    <div class="container">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+<div class="row">
+  <div class="col-12 col-lg-4 section-heading">
+    <h1>Publications</h1>
+    <p>National conferences</p>
+  </div>
+  <div class="col-12 col-lg-8">
+
+    
+
+    
+      
+        
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="olivier-flasseur.github.io/nat-conf-publication/2019-gretsi-temp/" >Détection d’exoplanètes par une modélisation statistique locale de la covariance spatio-temporelle du fond</a>
+    </h3>
+
+    
+    <div class="article-style">
+      La détection d’exoplanètes par imagerie directe est une tâche ardue : le faible signal des objets d’intérêt est noyé dans un fond …
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+
+
+  
+  <span><strong>O. Flasseur</strong></span>, <span>L. Denis</span>, <span>É. Thiébaut</span>, <span>M. Langlois</span>
+
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Sep 1, 2019
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="olivier-flasseur.github.io/categories/astronomy/">Astronomy</a></span>
+  
+
+</div>
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="olivier-flasseur.github.io/nat-conf-publication/2019-gretsi-temp/" >
+      <img src="./olivier-flasseur.github.io/nat-conf-publication/2019-gretsi-temp/featured_hu343b54e0ae823e9bd699ca45a5bebcfa_1692007_150x0_resize_lanczos_2.png" alt="">
+    </a>
+    
+  </div>
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="olivier-flasseur.github.io/nat-conf-publication/2017-gretsi-model/" >Détection d’exoplanètes basée sur une modélisation statistique locale des patchs</a>
+    </h3>
+
+    
+    <div class="article-style">
+      La détection d’exo-planètes par imagerie directe est un problème difficile car les observations sont dominées par les fuites …
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+
+
+  
+  <span><strong>O. Flasseur</strong></span>, <span>L. Denis</span>, <span>É. Thiébaut</span>, <span>M. Langlois</span>
+
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Sep 1, 2017
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="olivier-flasseur.github.io/categories/astronomy/">Astronomy</a></span>
+  
+
+</div>
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="olivier-flasseur.github.io/nat-conf-publication/2017-gretsi-model/" >
+      <img src="./olivier-flasseur.github.io/nat-conf-publication/2017-gretsi-model/featured_hudcf96d1e0d4b786a5c9ebabe69487016_81097_150x0_resize_lanczos_2.png" alt="">
+    </a>
+    
+  </div>
+</div>
+
+      
+    
+
+    
+
+  </div>
+</div>
+
+    </div>
+  </section>
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  <section id="other-communications" class="home-section wg-pages   "  >
+    <div class="container">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+<div class="row">
+  <div class="col-12 col-lg-4 section-heading">
+    <h1>Other</h1>
+    <p>Workshops, Seminars, etc.</p>
+  </div>
+  <div class="col-12 col-lg-8">
+
+    
+
+    
+      
+        
+
+
+
+
+
+
+
+
+
+
+
+<div class="view-list-item">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+  <a href="olivier-flasseur.github.io/other-communication/2020-seminar-detection-characterization-reconstruction/" >Object detection, characterization and reconstruction from faint signals in images: applications in astronomy and microscopy</a>
+
+  
+
+  
+
+  
+
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+
+
+
+
+
+
+<div class="view-list-item">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+  <a href="olivier-flasseur.github.io/other-communication/2020-sphere-pds70/" >PDS 70: update on post-processing developments</a>
+
+  
+
+  
+
+  
+
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+
+
+
+
+
+
+<div class="view-list-item">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+  <a href="olivier-flasseur.github.io/other-communication/2020-jionc-expaco/" >ExPACO: détection de motifs spatialement étendus dans des images présentant un bruit non stationnaire corrélé</a>
+
+  
+
+  
+
+  
+
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+
+
+
+
+
+
+<div class="view-list-item">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+  <a href="olivier-flasseur.github.io/other-communication/2019-seminar-paco/" >Exoplanet detection in direct imaging by statistical learning of the non-stationary patch covariances</a>
+
+  
+
+  
+
+  
+
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+
+
+
+
+
+
+<div class="view-list-item">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+  <a href="olivier-flasseur.github.io/other-communication/2019-sphere-pacoset/" >Exoplanet detection in direct imaging by statistical learning of the non-stationary patch covariances – The PACO-based algorithms</a>
+
+  
+
+  
+
+  
+
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+
+
+
+
+
+
+<div class="view-list-item">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+  <a href="olivier-flasseur.github.io/other-communication/2019-edsis-popularization/" >Detection and characterization of faint signals in images : application in astronomy and microscopy</a>
+
+  
+
+  
+
+  
+
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+
+
+
+
+
+
+<div class="view-list-item">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+  <a href="olivier-flasseur.github.io/other-communication/2019-ipmas-paco/" >An unsupervised patch-based approach for exoplanet detection by direct imaging. The PACO algorithm</a>
+
+  
+
+  
+
+  
+
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+
+
+
+
+
+
+<div class="view-list-item">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+  <a href="olivier-flasseur.github.io/other-communication/2019-jatia-paco/" >Exoplanet detection in angular and spectral differential imaging by a local learning of background correlations</a>
+
+  
+
+  
+
+  
+
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+
+
+
+
+
+
+<div class="view-list-item">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+  <a href="olivier-flasseur.github.io/other-communication/2018-holophi-recons/" >Joint reconstruction in in-line holography combining parametric and non-parametric inverse approaches: application to fluid mechanics</a>
+
+  
+
+  
+
+  
+
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+
+
+
+
+
+
+<div class="view-list-item">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+  <a href="olivier-flasseur.github.io/other-communication/2018-holophi-pbinv/" >Méthodologie problèmes inverses pour la reconstruction d’hologrammes en ligne d’objets de phase et/ou absorbants</a>
+
+  
+
+  
+
+  
+
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+
+
+
+
+
+
+<div class="view-list-item">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+  <a href="olivier-flasseur.github.io/other-communication/2018-gretsisummerschool-work/" >Objects detection and characterization in images with weak signal-to-noise ratio: applications in microscopy and astronomy</a>
+
+  
+
+  
+
+  
+
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+
+
+
+
+
+
+<div class="view-list-item">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+  <a href="olivier-flasseur.github.io/other-communication/2017-coconception-calibrecons/" >Auto-étalonnage d’un dispositif d’holographie couleur sans lentille et étude de performances</a>
+
+  
+
+  
+
+  
+
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+
+
+
+
+
+
+<div class="view-list-item">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+  <a href="olivier-flasseur.github.io/other-communication/2017-jionc-recons/" >Microscopie sans lentille : reconstruction par approche inverse robuste</a>
+
+  
+
+  
+
+  
+
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+
+
+
+
+
+
+<div class="view-list-item">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+  <a href="olivier-flasseur.github.io/other-communication/2016-holophi-calib/" >Auto-étalonnage couleur pour la microscopie sans lentille</a>
+
+  
+
+  
+
+  
+
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+
+
+
+
+
+
+<div class="view-list-item">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+  <a href="olivier-flasseur.github.io/other-communication/2016-holophi-recons/" >Reconstruction super-résolue d’hologrammes RVB</a>
+
+  
+
+  
+
+  
+
+</div>
+
+      
+    
+
+    
+
+  </div>
+</div>
+
+    </div>
+  </section>
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  <section id="thesis" class="home-section wg-pages   "  >
+    <div class="container">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+<div class="row">
+  <div class="col-12 col-lg-4 section-heading">
+    <h1>Thesis</h1>
+    
+  </div>
+  <div class="col-12 col-lg-8">
+
+    
+
+    
+      
+        
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="card-simple">
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+
+
+  
+  <span><strong>O. Flasseur</strong></span>
+
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Nov 19, 2019
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="olivier-flasseur.github.io/categories/astronomy/">Astronomy</a>, <a href="olivier-flasseur.github.io/categories/microscopy/">Microscopy</a></span>
+  
+
+</div>
+
+  
+
+  
+  
+  
+  
+  <a href="olivier-flasseur.github.io/thesis-publication/thesis/">
+      <img src="./olivier-flasseur.github.io/thesis-publication/thesis/featured_hu879eafb3bd2655805e2975283cdd8ded_2157695_918x517_fill_q90_lanczos_smart1.jpg" class="article-banner" alt="">
+  </a>
+  
+
+  <h3 class="article-title mb-1 mt-3">
+    <a href="olivier-flasseur.github.io/thesis-publication/thesis/">Object detection and characterization from faint signals in images: applications in astronomy and microscopy</a>
+  </h3>
+
+  
+  <div class="article-style">
+    <p>Detecting and characterizing objects in images in the low signal-to-noise ratio regime is a critical issue in many areas such as astronomy or microscopy. In astronomy, the detection of exoplanets and their characterization by direct imaging from the Earth is a hot topic. A target star and its close environment (hosting potential exoplanets) are observed on short exposures. In microscopy, in-line holography is a cost-effective method for characterizing microscopic objects. Based on the recording of a hologram, it allows a digital focusing in any plane of the imaged 3-D volume. In these two fields, the object detection problem is made difficult by the low contrast between the objects and the nonstationary background of the recorded images. <br> In this thesis, we propose an unsupervised exoplanet detection and characterization algorithm based on the statistical modeling of background fluctuations. The method, based on a modeling of the statistical distribution of patches, captures their spatial covariances. It reaches a performance superior to state-of-the-art techniques on several datasets of the European high-contrast imager SPHERE operating at the Very Large Telescope. It produces statistically grounded and spatially-stationary detection maps in which detections can be performed at a constant probability of false alarm. It also produces photometrically unbiased spectral energy distributions of the detected sources. The use of a statistical model of the data leads to reliable photometric and astrometric accuracies. This methodological framework can be adapted to the detection of spatially-extended patterns in strong structured background, such as the diffraction patterns in holographic microscopy. We also propose robust approaches based on weighting strategies to reduce the influence of the numerous outliers present in real data. We show on holographic videos that the proposed weighting approach achieves a bias/variance tradeoff. In astronomy, the robustness improves the performance of our detection method in particular at close separations where the stellar residuals dominate. Our algorithms are adapted to benefit from the possible spectral diversity of the data, which improves the detection and characterization performance. All the algorithms developed are unsupervised: weighting and/or regularization parameters are estimated in a data-driven fashion. Beyond the applications in astronomy and microscopy, the signal processing methodologies introduced are general and could be applied to other detection and estimation problems.</p>
+  </div>
+  
+
+  
+
+</div>
+
+      
+    
+
+    
+
+  </div>
+</div>
+
+    </div>
+  </section>
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+    
+    
+    
+  
+
+  <section id="slider" class="home-section wg-slider    carousel slide"  data-ride="carousel" data-interval="2000">
+    
+      
+
+
+
+
+<ol class="carousel-indicators">
+  
+  <li data-target="#slider" data-slide-to="0" class="active"></li>
+  
+  <li data-target="#slider" data-slide-to="1" ></li>
+  
+  <li data-target="#slider" data-slide-to="2" ></li>
+  
+</ol>
+
+
+<div class="carousel-inner">
+  
+  <div class="wg-hero dark carousel-item active" style="height: 1100px;
+    
+    background-color: #666;
+    
+    
+    background-image:
+    linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), 
+    url('olivier-flasseur.github.io/img/vlt/outside.jpg');
+    
+    ;">
+    <div class="container" style="text-align: left;">
+        <h1 class="hero-title">
+          
+        </h1>
+
+        
+        <p class="hero-lead" style="">
+          The European Very Large Telescope
+        </p>
+        
+
+        
+      </div>
+  </div>
+  
+  <div class="wg-hero dark carousel-item" style="height: 1100px;
+    
+    background-color: #666;
+    
+    
+    background-image:
+    linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), 
+    url('olivier-flasseur.github.io/img/vlt/telescopes.jpg');
+    
+    ;">
+    <div class="container" style="text-align: center;">
+        <h1 class="hero-title">
+          
+        </h1>
+
+        
+        <p class="hero-lead" style="margin: 0 auto 0 auto;">
+          The Unit Telescopes
+        </p>
+        
+
+        
+      </div>
+  </div>
+  
+  <div class="wg-hero dark carousel-item" style="height: 1100px;
+    
+    background-color: #666;
+    
+    
+    background-image:
+    linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), 
+    url('olivier-flasseur.github.io/img/vlt/sphere.jpg');
+    
+    ;">
+    <div class="container" style="text-align: right;">
+        <h1 class="hero-title">
+          
+        </h1>
+
+        
+        <p class="hero-lead" style="margin-left: auto; margin-right: 0">
+          The VLT/SPHERE instrument
+        </p>
+        
+
+        
+      </div>
+  </div>
+  
+</div>
+
+
+<a class="carousel-control-prev" href="#slider" data-slide="prev">
+  <span class="carousel-control-prev-icon"></span>
+  <span class="sr-only">Previous</span>
+</a>
+<a class="carousel-control-next" href="#slider" data-slide="next">
+  <span class="carousel-control-next-icon"></span>
+  <span class="sr-only">Next</span>
+</a>
+
+    
+  </section>
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  <section id="contact" class="home-section wg-contact   "  >
+    <div class="container">
+      
+
+
+
+
+
+<div class="row contact-widget">
+  <div class="col-12 col-lg-4 section-heading">
+    <h1>Contact</h1>
+    
+  </div>
+  <div class="col-12 col-lg-8">
+    
+
+    
+
+    
+    
+      
+      
+    
+
+    <div class="mb-3">
+      <form name="contact" method="POST" action="https://formspree.io/olivier.flasseur@univ-lyon1.fr">
+        <div class="form-group form-inline">
+          <label class="sr-only" for="inputName">Name</label>
+          <input type="text" name="name" class="form-control w-100" id="inputName" placeholder="Name" required>
+        </div>
+        <div class="form-group form-inline">
+          <label class="sr-only" for="inputEmail">Email</label>
+          <input type="email" name="email" class="form-control w-100" id="inputEmail" placeholder="Email" required>
+        </div>
+        <div class="form-group">
+          <label class="sr-only" for="inputMessage">Message</label>
+          <textarea name="message" class="form-control" id="inputMessage" rows="5" placeholder="Message" required></textarea>
+        </div>
+        <button type="submit" class="btn btn-outline-primary px-3 py-2">Send</button>
+      </form>
+    </div>
+    
+
+    <ul class="fa-ul">
+
+      
+
+      
+      <li>
+        <i class="fa-li fas fa-phone fa-2x" aria-hidden="true"></i>
+        <span id="person-telephone"><a href="tel:&#43;33%280%294%2078%2086%2083%2079">&#43;33(0)4 78 86 83 79</a></span>
+      </li>
+      
+
+      
+      
+        
+        <li>
+          <i class="fa-li fas fa-map-marker fa-2x" aria-hidden="true"></i>
+          <span id="person-address">9 Avenue Charles André, Saint-Genis-Laval, 69230</span>
+        </li>
+      
+
+      
+      <li>
+        <i class="fa-li fas fa-compass fa-2x" aria-hidden="true"></i>
+        <span>Office 221</span>
+      </li>
+      
+
+      
+
+      
+
+      
+      
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      <li>
+        <i class="fa-li fab fa-skype fa-2x" aria-hidden="true"></i>
+        <a href="skype:olivier.flasseur" >Skype Me</a>
+      </li>
+      
+
+    </ul>
+
+    
+    <div class="d-none">
+      <input id="map-provider" value="2">
+      <input id="map-lat" value="45.693746">
+      <input id="map-lng" value="4.783235">
+      <input id="map-dir" value="9 Avenue Charles André, Saint-Genis-Laval, 69230">
+      <input id="map-zoom" value="16">
+      <input id="map-api-key" value="">
+    </div>
+    <div id="map"></div>
+    
+
+  </div>
+</div>
+
+    </div>
+  </section>
+
+
+
+      
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
+
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.4.4/mermaid.min.js" integrity="sha256-JEqEejGt4tR35L0a1zodzsV0/PJ6GIf7J4yDtywdrH8=" crossorigin="anonymous" title="mermaid"></script>
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/highlight.min.js" integrity="sha256-1zu+3BnLYV9LdiY85uXMzii3bdrkelyp37e0ZyTAQh0=" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/languages/r.min.js"></script>
+        
+      
+
+    
+
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.js" integrity="sha256-EErZamuLefUnbMBQbsEqu1USa+btR2oIlCpBJbyD4/g=" crossorigin="anonymous"></script>
+    
+
+    
+    
+    <script>const code_highlighting = true;</script>
+    
+
+    
+    
+    <script>const isSiteThemeDark = false;</script>
+    
+
+    
+    
+    
+    
+    
+    
+    <script>
+      const search_config = {"indexURI":"/olivier-flasseur.github.io/index.json","minLength":1,"threshold":0.3};
+      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
+
+    
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="./olivier-flasseur.github.io/js/academic.min.a8d7005002cb4a052fd6d721e83df9ba.js"></script>
+
+    
+
+
+
+
+
+
+  
+  
+  <div class="container">
+    <footer class="site-footer">
+  
+
+  <p class="powered-by">
+    
+
+    Last update: January 2021
+
+    
+    <span class="float-right" aria-hidden="true">
+      <a href="#" class="back-to-top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    
+  </p>
+</footer>
+
+  </div>
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

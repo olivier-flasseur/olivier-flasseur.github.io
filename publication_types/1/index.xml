@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Olivier Flasseur</title>
+    <link>olivier-flasseur.github.io/publication_types/1/</link>
+      <atom:link href="olivier-flasseur.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 21 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>1</title>
+      <link>olivier-flasseur.github.io/publication_types/1/</link>
+    </image>
+    
+    <item>
+      <title>Finding meaningful detections: false discovery rate control in correlated detection maps</title>
+      <link>olivier-flasseur.github.io/int-conf-publication/2020-eusipco-fdr/</link>
+      <pubDate>Thu, 21 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>olivier-flasseur.github.io/int-conf-publication/2020-eusipco-fdr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exoplanet imaging data challenge: benchmarking the various image processing methods for exoplanet detection</title>
+      <link>olivier-flasseur.github.io/int-conf-publication/2020-spie-datachallenge/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>olivier-flasseur.github.io/int-conf-publication/2020-spie-datachallenge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accounting for the nonstationary correlated noise in digital holography</title>
+      <link>olivier-flasseur.github.io/int-conf-publication/2020-spie-nonstationary/</link>
+      <pubDate>Mon, 06 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>olivier-flasseur.github.io/int-conf-publication/2020-spie-nonstationary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Détection d’exoplanètes par une modélisation statistique locale de la covariance spatio-temporelle du fond</title>
+      <link>olivier-flasseur.github.io/nat-conf-publication/2019-gretsi-temp/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>olivier-flasseur.github.io/nat-conf-publication/2019-gretsi-temp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ExPACO: detection of an extended pattern under nonstationary correlated noise by patch covariance modeling</title>
+      <link>olivier-flasseur.github.io/int-conf-publication/2019-eusipco-expaco/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>olivier-flasseur.github.io/int-conf-publication/2019-eusipco-expaco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Numerical reconstruction of holograms using inverse problems approaches</title>
+      <link>olivier-flasseur.github.io/int-conf-publication/2019-osa-invpb/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>olivier-flasseur.github.io/int-conf-publication/2019-osa-invpb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reconstruction of in-line holograms combining model fitting and image-based regularized inversion</title>
+      <link>olivier-flasseur.github.io/int-conf-publication/2019-osa-recons/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>olivier-flasseur.github.io/int-conf-publication/2019-osa-recons/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An unsupervised patch-based approach for exoplanet detection by direct imaging</title>
+      <link>olivier-flasseur.github.io/int-conf-publication/2018-icip-autopaco/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>olivier-flasseur.github.io/int-conf-publication/2018-icip-autopaco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exoplanet detection in angular and spectral differential imaging: local learning of background correlations for improved detection</title>
+      <link>olivier-flasseur.github.io/int-conf-publication/2018-spie-ifspaco/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>olivier-flasseur.github.io/int-conf-publication/2018-spie-ifspaco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving color lensless microscopy reconstructions by self-calibration</title>
+      <link>olivier-flasseur.github.io/int-conf-publication/2018-spie-selfrecons/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>olivier-flasseur.github.io/int-conf-publication/2018-spie-selfrecons/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimizing phase object reconstruction using an in-line digital holographic microscope and a reconstruction based on a Lorenz Mie model</title>
+      <link>olivier-flasseur.github.io/int-conf-publication/2018-spie-codesign/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>olivier-flasseur.github.io/int-conf-publication/2018-spie-codesign/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Détection d’exoplanètes basée sur une modélisation statistique locale des patchs</title>
+      <link>olivier-flasseur.github.io/nat-conf-publication/2017-gretsi-model/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>olivier-flasseur.github.io/nat-conf-publication/2017-gretsi-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust object characterization from lensless microscopy videos</title>
+      <link>olivier-flasseur.github.io/int-conf-publication/2017-eusipco-robustholo/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>olivier-flasseur.github.io/int-conf-publication/2017-eusipco-robustholo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

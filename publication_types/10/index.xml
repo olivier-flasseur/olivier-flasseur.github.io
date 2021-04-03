@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>10 | Olivier Flasseur</title>
+    <link>olivier-flasseur.github.io/publication_types/10/</link>
+      <atom:link href="olivier-flasseur.github.io/publication_types/10/index.xml" rel="self" type="application/rss+xml" />
+    <description>10</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>10</title>
+      <link>olivier-flasseur.github.io/publication_types/10/</link>
+    </image>
+    
+    <item>
+      <title>Object detection, characterization and reconstruction from faint signals in images: applications in astronomy and microscopy</title>
+      <link>olivier-flasseur.github.io/other-communication/2020-seminar-detection-characterization-reconstruction/</link>
+      <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>olivier-flasseur.github.io/other-communication/2020-seminar-detection-characterization-reconstruction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exoplanet detection in direct imaging by statistical learning of the non-stationary patch covariances</title>
+      <link>olivier-flasseur.github.io/other-communication/2019-seminar-paco/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>olivier-flasseur.github.io/other-communication/2019-seminar-paco/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
