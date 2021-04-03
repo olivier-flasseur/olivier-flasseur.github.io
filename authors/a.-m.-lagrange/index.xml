@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>A.-M. Lagrange | Olivier Flasseur</title>
-    <link>olivier-flasseur.github.io/authors/a.-m.-lagrange/</link>
-      <atom:link href="olivier-flasseur.github.io/authors/a.-m.-lagrange/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://olivier-flasseur.github.io/authors/a.-m.-lagrange/</link>
+      <atom:link href="https://olivier-flasseur.github.io/authors/a.-m.-lagrange/index.xml" rel="self" type="application/rss+xml" />
     <description>A.-M. Lagrange</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 21 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>A.-M. Lagrange</title>
-      <link>olivier-flasseur.github.io/authors/a.-m.-lagrange/</link>
+      <link>https://olivier-flasseur.github.io/authors/a.-m.-lagrange/</link>
     </image>
     
     <item>
       <title>Unveiling the β Pictoris system, coupling high contrast imaging, interferometric, and radial velocity data</title>
-      <link>olivier-flasseur.github.io/publication/2020-aa-betapic/</link>
+      <link>https://olivier-flasseur.github.io/publication/2020-aa-betapic/</link>
       <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>olivier-flasseur.github.io/publication/2020-aa-betapic/</guid>
+      <guid>https://olivier-flasseur.github.io/publication/2020-aa-betapic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>VLT/SPHERE exploration of the young multiplanetary system PDS70</title>
-      <link>olivier-flasseur.github.io/publication/2019-aa-pds70/</link>
+      <link>https://olivier-flasseur.github.io/publication/2019-aa-pds70/</link>
       <pubDate>Thu, 24 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>olivier-flasseur.github.io/publication/2019-aa-pds70/</guid>
+      <guid>https://olivier-flasseur.github.io/publication/2019-aa-pds70/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Determining mass limits around HD 163296 through SPHERE direct imaging data</title>
-      <link>olivier-flasseur.github.io/publication/2019-mnras-hd163296/</link>
+      <link>https://olivier-flasseur.github.io/publication/2019-mnras-hd163296/</link>
       <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>olivier-flasseur.github.io/publication/2019-mnras-hd163296/</guid>
+      <guid>https://olivier-flasseur.github.io/publication/2019-mnras-hd163296/</guid>
       <description></description>
     </item>
     

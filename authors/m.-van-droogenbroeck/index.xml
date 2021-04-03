@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>M. Van Droogenbroeck | Olivier Flasseur</title>
-    <link>olivier-flasseur.github.io/authors/m.-van-droogenbroeck/</link>
-      <atom:link href="olivier-flasseur.github.io/authors/m.-van-droogenbroeck/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://olivier-flasseur.github.io/authors/m.-van-droogenbroeck/</link>
+      <atom:link href="https://olivier-flasseur.github.io/authors/m.-van-droogenbroeck/index.xml" rel="self" type="application/rss+xml" />
     <description>M. Van Droogenbroeck</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>M. Van Droogenbroeck</title>
-      <link>olivier-flasseur.github.io/authors/m.-van-droogenbroeck/</link>
+      <link>https://olivier-flasseur.github.io/authors/m.-van-droogenbroeck/</link>
     </image>
     
     <item>
       <title>Exoplanet imaging data challenge: benchmarking the various image processing methods for exoplanet detection</title>
-      <link>olivier-flasseur.github.io/int-conf-publication/2020-spie-datachallenge/</link>
+      <link>https://olivier-flasseur.github.io/int-conf-publication/2020-spie-datachallenge/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>olivier-flasseur.github.io/int-conf-publication/2020-spie-datachallenge/</guid>
+      <guid>https://olivier-flasseur.github.io/int-conf-publication/2020-spie-datachallenge/</guid>
       <description></description>
     </item>
     

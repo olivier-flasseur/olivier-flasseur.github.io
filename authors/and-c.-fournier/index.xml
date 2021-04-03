@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>and C. Fournier | Olivier Flasseur</title>
-    <link>olivier-flasseur.github.io/authors/and-c.-fournier/</link>
-      <atom:link href="olivier-flasseur.github.io/authors/and-c.-fournier/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://olivier-flasseur.github.io/authors/and-c.-fournier/</link>
+      <atom:link href="https://olivier-flasseur.github.io/authors/and-c.-fournier/index.xml" rel="self" type="application/rss+xml" />
     <description>and C. Fournier</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>and C. Fournier</title>
-      <link>olivier-flasseur.github.io/authors/and-c.-fournier/</link>
+      <link>https://olivier-flasseur.github.io/authors/and-c.-fournier/</link>
     </image>
     
     <item>
       <title>Méthodologie problèmes inverses pour la reconstruction d’hologrammes en ligne d’objets de phase et/ou absorbants</title>
-      <link>olivier-flasseur.github.io/other-communication/2018-holophi-pbinv/</link>
+      <link>https://olivier-flasseur.github.io/other-communication/2018-holophi-pbinv/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>olivier-flasseur.github.io/other-communication/2018-holophi-pbinv/</guid>
+      <guid>https://olivier-flasseur.github.io/other-communication/2018-holophi-pbinv/</guid>
       <description></description>
     </item>
     

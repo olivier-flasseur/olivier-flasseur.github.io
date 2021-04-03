@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>7 | Olivier Flasseur</title>
-    <link>olivier-flasseur.github.io/publication_types/7/</link>
-      <atom:link href="olivier-flasseur.github.io/publication_types/7/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://olivier-flasseur.github.io/publication_types/7/</link>
+      <atom:link href="https://olivier-flasseur.github.io/publication_types/7/index.xml" rel="self" type="application/rss+xml" />
     <description>7</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 19 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>7</title>
-      <link>olivier-flasseur.github.io/publication_types/7/</link>
+      <link>https://olivier-flasseur.github.io/publication_types/7/</link>
     </image>
     
     <item>
       <title>Object detection and characterization from faint signals in images: applications in astronomy and microscopy</title>
-      <link>olivier-flasseur.github.io/thesis-publication/thesis/</link>
+      <link>https://olivier-flasseur.github.io/thesis-publication/thesis/</link>
       <pubDate>Tue, 19 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>olivier-flasseur.github.io/thesis-publication/thesis/</guid>
+      <guid>https://olivier-flasseur.github.io/thesis-publication/thesis/</guid>
       <description></description>
     </item>
     

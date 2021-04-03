@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>A. Berdeu | Olivier Flasseur</title>
-    <link>olivier-flasseur.github.io/authors/a.-berdeu/</link>
-      <atom:link href="olivier-flasseur.github.io/authors/a.-berdeu/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://olivier-flasseur.github.io/authors/a.-berdeu/</link>
+      <atom:link href="https://olivier-flasseur.github.io/authors/a.-berdeu/index.xml" rel="self" type="application/rss+xml" />
     <description>A. Berdeu</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>A. Berdeu</title>
-      <link>olivier-flasseur.github.io/authors/a.-berdeu/</link>
+      <link>https://olivier-flasseur.github.io/authors/a.-berdeu/</link>
     </image>
     
     <item>
       <title>Numerical reconstruction of holograms using inverse problems approaches</title>
-      <link>olivier-flasseur.github.io/int-conf-publication/2019-osa-invpb/</link>
+      <link>https://olivier-flasseur.github.io/int-conf-publication/2019-osa-invpb/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>olivier-flasseur.github.io/int-conf-publication/2019-osa-invpb/</guid>
+      <guid>https://olivier-flasseur.github.io/int-conf-publication/2019-osa-invpb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reconstruction of in-line holograms combining model fitting and image-based regularized inversion</title>
-      <link>olivier-flasseur.github.io/int-conf-publication/2019-osa-recons/</link>
+      <link>https://olivier-flasseur.github.io/int-conf-publication/2019-osa-recons/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>olivier-flasseur.github.io/int-conf-publication/2019-osa-recons/</guid>
+      <guid>https://olivier-flasseur.github.io/int-conf-publication/2019-osa-recons/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reconstruction of in-line holograms: combining model-based and regularized inversion</title>
-      <link>olivier-flasseur.github.io/publication/2019-optexp-recons/</link>
+      <link>https://olivier-flasseur.github.io/publication/2019-optexp-recons/</link>
       <pubDate>Tue, 22 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>olivier-flasseur.github.io/publication/2019-optexp-recons/</guid>
+      <guid>https://olivier-flasseur.github.io/publication/2019-optexp-recons/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Joint reconstruction in in-line holography combining parametric and non-parametric inverse approaches: application to fluid mechanics</title>
-      <link>olivier-flasseur.github.io/other-communication/2018-holophi-recons/</link>
+      <link>https://olivier-flasseur.github.io/other-communication/2018-holophi-recons/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>olivier-flasseur.github.io/other-communication/2018-holophi-recons/</guid>
+      <guid>https://olivier-flasseur.github.io/other-communication/2018-holophi-recons/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Méthodologie problèmes inverses pour la reconstruction d’hologrammes en ligne d’objets de phase et/ou absorbants</title>
-      <link>olivier-flasseur.github.io/other-communication/2018-holophi-pbinv/</link>
+      <link>https://olivier-flasseur.github.io/other-communication/2018-holophi-pbinv/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>olivier-flasseur.github.io/other-communication/2018-holophi-pbinv/</guid>
+      <guid>https://olivier-flasseur.github.io/other-communication/2018-holophi-pbinv/</guid>
       <description></description>
     </item>
     

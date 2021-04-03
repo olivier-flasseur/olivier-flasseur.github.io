@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nat-conf-publications | Olivier Flasseur</title>
-    <link>olivier-flasseur.github.io/nat-conf-publication/</link>
-      <atom:link href="olivier-flasseur.github.io/nat-conf-publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://olivier-flasseur.github.io/nat-conf-publication/</link>
+      <atom:link href="https://olivier-flasseur.github.io/nat-conf-publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Nat-conf-publications</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Nat-conf-publications</title>
-      <link>olivier-flasseur.github.io/nat-conf-publication/</link>
+      <link>https://olivier-flasseur.github.io/nat-conf-publication/</link>
     </image>
     
     <item>
       <title>Détection d’exoplanètes par une modélisation statistique locale de la covariance spatio-temporelle du fond</title>
-      <link>olivier-flasseur.github.io/nat-conf-publication/2019-gretsi-temp/</link>
+      <link>https://olivier-flasseur.github.io/nat-conf-publication/2019-gretsi-temp/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>olivier-flasseur.github.io/nat-conf-publication/2019-gretsi-temp/</guid>
+      <guid>https://olivier-flasseur.github.io/nat-conf-publication/2019-gretsi-temp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Détection d’exoplanètes basée sur une modélisation statistique locale des patchs</title>
-      <link>olivier-flasseur.github.io/nat-conf-publication/2017-gretsi-model/</link>
+      <link>https://olivier-flasseur.github.io/nat-conf-publication/2017-gretsi-model/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>olivier-flasseur.github.io/nat-conf-publication/2017-gretsi-model/</guid>
+      <guid>https://olivier-flasseur.github.io/nat-conf-publication/2017-gretsi-model/</guid>
       <description></description>
     </item>
     

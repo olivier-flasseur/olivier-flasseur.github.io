@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>M. Barbieri | Olivier Flasseur</title>
-    <link>olivier-flasseur.github.io/authors/m.-barbieri/</link>
-      <atom:link href="olivier-flasseur.github.io/authors/m.-barbieri/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://olivier-flasseur.github.io/authors/m.-barbieri/</link>
+      <atom:link href="https://olivier-flasseur.github.io/authors/m.-barbieri/index.xml" rel="self" type="application/rss+xml" />
     <description>M. Barbieri</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 18 Jun 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>M. Barbieri</title>
-      <link>olivier-flasseur.github.io/authors/m.-barbieri/</link>
+      <link>https://olivier-flasseur.github.io/authors/m.-barbieri/</link>
     </image>
     
     <item>
       <title>Determining mass limits around HD 163296 through SPHERE direct imaging data</title>
-      <link>olivier-flasseur.github.io/publication/2019-mnras-hd163296/</link>
+      <link>https://olivier-flasseur.github.io/publication/2019-mnras-hd163296/</link>
       <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>olivier-flasseur.github.io/publication/2019-mnras-hd163296/</guid>
+      <guid>https://olivier-flasseur.github.io/publication/2019-mnras-hd163296/</guid>
       <description></description>
     </item>
     

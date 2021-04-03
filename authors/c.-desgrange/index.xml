@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>C. Desgrange | Olivier Flasseur</title>
-    <link>olivier-flasseur.github.io/authors/c.-desgrange/</link>
-      <atom:link href="olivier-flasseur.github.io/authors/c.-desgrange/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://olivier-flasseur.github.io/authors/c.-desgrange/</link>
+      <atom:link href="https://olivier-flasseur.github.io/authors/c.-desgrange/index.xml" rel="self" type="application/rss+xml" />
     <description>C. Desgrange</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 13 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>C. Desgrange</title>
-      <link>olivier-flasseur.github.io/authors/c.-desgrange/</link>
+      <link>https://olivier-flasseur.github.io/authors/c.-desgrange/</link>
     </image>
     
     <item>
       <title>PDS 70: update on post-processing developments</title>
-      <link>olivier-flasseur.github.io/other-communication/2020-sphere-pds70/</link>
+      <link>https://olivier-flasseur.github.io/other-communication/2020-sphere-pds70/</link>
       <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>olivier-flasseur.github.io/other-communication/2020-sphere-pds70/</guid>
+      <guid>https://olivier-flasseur.github.io/other-communication/2020-sphere-pds70/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exoplanet imaging data challenge: benchmarking the various image processing methods for exoplanet detection</title>
-      <link>olivier-flasseur.github.io/int-conf-publication/2020-spie-datachallenge/</link>
+      <link>https://olivier-flasseur.github.io/int-conf-publication/2020-spie-datachallenge/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>olivier-flasseur.github.io/int-conf-publication/2020-spie-datachallenge/</guid>
+      <guid>https://olivier-flasseur.github.io/int-conf-publication/2020-spie-datachallenge/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R.U. Claudi | Olivier Flasseur</title>
-    <link>olivier-flasseur.github.io/authors/r.u.-claudi/</link>
-      <atom:link href="olivier-flasseur.github.io/authors/r.u.-claudi/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://olivier-flasseur.github.io/authors/r.u.-claudi/</link>
+      <atom:link href="https://olivier-flasseur.github.io/authors/r.u.-claudi/index.xml" rel="self" type="application/rss+xml" />
     <description>R.U. Claudi</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 24 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>R.U. Claudi</title>
-      <link>olivier-flasseur.github.io/authors/r.u.-claudi/</link>
+      <link>https://olivier-flasseur.github.io/authors/r.u.-claudi/</link>
     </image>
     
     <item>
       <title>VLT/SPHERE exploration of the young multiplanetary system PDS70</title>
-      <link>olivier-flasseur.github.io/publication/2019-aa-pds70/</link>
+      <link>https://olivier-flasseur.github.io/publication/2019-aa-pds70/</link>
       <pubDate>Thu, 24 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>olivier-flasseur.github.io/publication/2019-aa-pds70/</guid>
+      <guid>https://olivier-flasseur.github.io/publication/2019-aa-pds70/</guid>
       <description></description>
     </item>
     

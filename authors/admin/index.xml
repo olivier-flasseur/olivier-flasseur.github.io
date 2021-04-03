@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Olivier Flasseur</title>
-    <link>olivier-flasseur.github.io/authors/admin/</link>
-      <atom:link href="olivier-flasseur.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://olivier-flasseur.github.io/authors/admin/</link>
+      <atom:link href="https://olivier-flasseur.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Olivier Flasseur</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Olivier Flasseur</title>
-      <link>olivier-flasseur.github.io/authors/admin/</link>
+      <link>https://olivier-flasseur.github.io/authors/admin/</link>
     </image>
     
   </channel>

@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>F. Jolivet | Olivier Flasseur</title>
-    <link>olivier-flasseur.github.io/authors/f.-jolivet/</link>
-      <atom:link href="olivier-flasseur.github.io/authors/f.-jolivet/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://olivier-flasseur.github.io/authors/f.-jolivet/</link>
+      <atom:link href="https://olivier-flasseur.github.io/authors/f.-jolivet/index.xml" rel="self" type="application/rss+xml" />
     <description>F. Jolivet</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>F. Jolivet</title>
-      <link>olivier-flasseur.github.io/authors/f.-jolivet/</link>
+      <link>https://olivier-flasseur.github.io/authors/f.-jolivet/</link>
     </image>
     
     <item>
       <title>Méthodologie problèmes inverses pour la reconstruction d’hologrammes en ligne d’objets de phase et/ou absorbants</title>
-      <link>olivier-flasseur.github.io/other-communication/2018-holophi-pbinv/</link>
+      <link>https://olivier-flasseur.github.io/other-communication/2018-holophi-pbinv/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>olivier-flasseur.github.io/other-communication/2018-holophi-pbinv/</guid>
+      <guid>https://olivier-flasseur.github.io/other-communication/2018-holophi-pbinv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Improving color lensless microscopy reconstructions by self-calibration</title>
-      <link>olivier-flasseur.github.io/int-conf-publication/2018-spie-selfrecons/</link>
+      <link>https://olivier-flasseur.github.io/int-conf-publication/2018-spie-selfrecons/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
-      <guid>olivier-flasseur.github.io/int-conf-publication/2018-spie-selfrecons/</guid>
+      <guid>https://olivier-flasseur.github.io/int-conf-publication/2018-spie-selfrecons/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Auto-étalonnage d’un dispositif d’holographie couleur sans lentille et étude de performances</title>
-      <link>olivier-flasseur.github.io/other-communication/2017-coconception-calibrecons/</link>
+      <link>https://olivier-flasseur.github.io/other-communication/2017-coconception-calibrecons/</link>
       <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
-      <guid>olivier-flasseur.github.io/other-communication/2017-coconception-calibrecons/</guid>
+      <guid>https://olivier-flasseur.github.io/other-communication/2017-coconception-calibrecons/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Self-calibration for lensless color microscopy</title>
-      <link>olivier-flasseur.github.io/publication/2017-appopt-self/</link>
+      <link>https://olivier-flasseur.github.io/publication/2017-appopt-self/</link>
       <pubDate>Thu, 23 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>olivier-flasseur.github.io/publication/2017-appopt-self/</guid>
+      <guid>https://olivier-flasseur.github.io/publication/2017-appopt-self/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reconstruction super-résolue d’hologrammes RVB</title>
-      <link>olivier-flasseur.github.io/other-communication/2016-holophi-recons/</link>
+      <link>https://olivier-flasseur.github.io/other-communication/2016-holophi-recons/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>olivier-flasseur.github.io/other-communication/2016-holophi-recons/</guid>
+      <guid>https://olivier-flasseur.github.io/other-communication/2016-holophi-recons/</guid>
       <description></description>
     </item>
     
