@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>L. Mugnier | Olivier Flasseur</title>
+    <link>https://olivier-flasseur.github.io/authors/l.-mugnier/</link>
+      <atom:link href="https://olivier-flasseur.github.io/authors/l.-mugnier/index.xml" rel="self" type="application/rss+xml" />
+    <description>L. Mugnier</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 06 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>L. Mugnier</title>
+      <link>https://olivier-flasseur.github.io/authors/l.-mugnier/</link>
+    </image>
+    
+    <item>
+      <title>The SPHERE infrared survey for exoplanets (SHINE). II. Observations, data reduction and analysis, detection performances and early-results</title>
+      <link>https://olivier-flasseur.github.io/publication/2021-aa-sphere-shine/</link>
+      <pubDate>Sat, 06 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://olivier-flasseur.github.io/publication/2021-aa-sphere-shine/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

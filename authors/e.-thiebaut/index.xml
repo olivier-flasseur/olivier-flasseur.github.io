@@ -5,12 +5,28 @@
     <link>https://olivier-flasseur.github.io/authors/e.-thiebaut/</link>
       <atom:link href="https://olivier-flasseur.github.io/authors/e.-thiebaut/index.xml" rel="self" type="application/rss+xml" />
     <description>É. Thiébaut</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 21 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 11 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>É. Thiébaut</title>
       <link>https://olivier-flasseur.github.io/authors/e.-thiebaut/</link>
     </image>
+    
+    <item>
+      <title>REXPACO: An algorithm for high contrast reconstruction of the circumstellar environment by angular differential imaging</title>
+      <link>https://olivier-flasseur.github.io/publication/2021-aa-rexpaco/</link>
+      <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://olivier-flasseur.github.io/publication/2021-aa-rexpaco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The SPHERE infrared survey for exoplanets (SHINE). II. Observations, data reduction and analysis, detection performances and early-results</title>
+      <link>https://olivier-flasseur.github.io/publication/2021-aa-sphere-shine/</link>
+      <pubDate>Sat, 06 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://olivier-flasseur.github.io/publication/2021-aa-sphere-shine/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Finding meaningful detections: false discovery rate control in correlated detection maps</title>

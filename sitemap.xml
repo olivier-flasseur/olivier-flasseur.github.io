@@ -4,26 +4,661 @@
   
   <url>
     <loc>https://olivier-flasseur.github.io/authors/o.-flasseur/</loc>
-    <lastmod>2021-01-21T00:00:00+00:00</lastmod>
+    <lastmod>2021-05-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://olivier-flasseur.github.io/publication_types/1/</loc>
-    <lastmod>2021-01-21T00:00:00+00:00</lastmod>
+    <loc>https://olivier-flasseur.github.io/publication_types/2/</loc>
+    <lastmod>2021-05-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://olivier-flasseur.github.io/categories/astronomy/</loc>
-    <lastmod>2021-01-21T00:00:00+00:00</lastmod>
+    <lastmod>2021-05-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://olivier-flasseur.github.io/authors/</loc>
-    <lastmod>2021-01-21T00:00:00+00:00</lastmod>
+    <lastmod>2021-05-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://olivier-flasseur.github.io/categories/</loc>
+    <lastmod>2021-05-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/l.-denis/</loc>
+    <lastmod>2021-05-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/m.-langlois/</loc>
+    <lastmod>2021-05-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/</loc>
+    <lastmod>2021-05-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/publication_types/</loc>
+    <lastmod>2021-05-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/publication/</loc>
+    <lastmod>2021-05-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/publication/2021-aa-rexpaco/</loc>
+    <lastmod>2021-05-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/s.-the/</loc>
+    <lastmod>2021-05-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/e.-thiebaut/</loc>
+    <lastmod>2021-05-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/a.-baruffolo/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/a.-bazzon/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/a.-boccaletti/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/a.-cheetham/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/a.-costille/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/a.-delboulbe/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/a.-muller/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/a.-origne/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/a.-pavlov/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/a.-perreti/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/a.-roux/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/a.-sevin/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/a.-vigan/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/a.-zurlo/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/a.-l.-maire/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/a.-m.-lagrange/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/b.-biller/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/b.-salasnich/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/c.-dominik/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/c.-fontanive/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/c.-gry/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/c.-lazzoni/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/c.-perrot/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/c.-petit/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/c.-romero/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/c.-soenke/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/d.-fantinel/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/d.-gisler/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/d.-le-mignant/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/d.-maurel/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/d.-mesa/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/d.-mouillet/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/d.-perret/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/d.-rouan/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/e.-cascone/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/e.-giro/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/e.-hugot/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/e.-lagadec/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/e.-rickman/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/e.-sissa/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/e.-stadler/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/f.-allard/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/f.-cantalloube/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/f.-madec/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/f.-menard/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/f.-rigal/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/f.-wildi/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/g.-chauvin/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/g.-rousset/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/g.-salter/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/h.-le-coroller/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/h.m.-schmid/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/j.-antichi/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/j.-baudrand/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/j.-charton/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/j.-girard/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/j.-hagelberg/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/j.-lannier/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/j.-milli/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/j.-pragt/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/j.-ramos/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/j.-f.-sauvage/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/j.-l.-beuzit/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/k.-dohlen/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/l.-abe/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/l.-gluck/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/l.-mugnier/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/l.-rodet/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/l.-weber/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/m.-bonavita/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/m.-bonnefoy/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/m.-carbillet/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/m.-carle/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/m.-feldt/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/m.-janson/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/m.-jaquet/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/m.-kasper/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/m.-keppler/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/m.-llored/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/m.-meyer/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/m.-samland/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/m.-suarez/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/m.-turatto/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/n.-hubin/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/n.-meunier/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/o.-moller-nilsson/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/p.-baudoz/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/p.-blanchard/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/p.-delorme/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/p.-feautrier/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/p.-gigan/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/p.-janin-potiron/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/p.-martinez/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/p.-puget/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/p.-rabou/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/p.-rubini/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/r.-claudi/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/r.-galicher/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/r.-gratton/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/r.-ligi/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/r.-roelfsema/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/s.-daemgen/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/s.-desidera/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/s.-messina/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/s.-rochat/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/s.-udry/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/t.-bhowmik/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/t.-fusco/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/t.-kopytova/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/t.-moulin/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/t.-schmidt/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/th.-henning/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/publication/2021-aa-sphere-shine/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/v.-de-caprio/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/v.-dorazi/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/w.-brandner/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/y.-magnard/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/authors/z.-wahhaj/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olivier-flasseur.github.io/publication_types/1/</loc>
     <lastmod>2021-01-21T00:00:00+00:00</lastmod>
   </url>
   
@@ -33,32 +668,7 @@
   </url>
   
   <url>
-    <loc>https://olivier-flasseur.github.io/authors/l.-denis/</loc>
-    <lastmod>2021-01-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://olivier-flasseur.github.io/authors/m.-langlois/</loc>
-    <lastmod>2021-01-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://olivier-flasseur.github.io/</loc>
-    <lastmod>2021-01-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://olivier-flasseur.github.io/publication_types/</loc>
-    <lastmod>2021-01-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://olivier-flasseur.github.io/int-conf-publication/</loc>
-    <lastmod>2021-01-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://olivier-flasseur.github.io/authors/e.-thiebaut/</loc>
     <lastmod>2021-01-21T00:00:00+00:00</lastmod>
   </url>
   
@@ -98,22 +708,12 @@
   </url>
   
   <url>
-    <loc>https://olivier-flasseur.github.io/authors/f.-cantalloube/</loc>
-    <lastmod>2021-01-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://olivier-flasseur.github.io/authors/l.-denneulin/</loc>
     <lastmod>2021-01-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://olivier-flasseur.github.io/authors/m.-benisty/</loc>
-    <lastmod>2021-01-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://olivier-flasseur.github.io/authors/m.-keppler/</loc>
     <lastmod>2021-01-13T00:00:00+00:00</lastmod>
   </url>
   
@@ -153,16 +753,6 @@
   </url>
   
   <url>
-    <loc>https://olivier-flasseur.github.io/authors/d.-mesa/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://olivier-flasseur.github.io/authors/d.-mouillet/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://olivier-flasseur.github.io/authors/e.-nasedkin/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url>
@@ -194,11 +784,6 @@
   
   <url>
     <loc>https://olivier-flasseur.github.io/authors/m.-kenworthy/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://olivier-flasseur.github.io/authors/m.-samland/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url>
   
@@ -238,22 +823,7 @@
   </url>
   
   <url>
-    <loc>https://olivier-flasseur.github.io/authors/th.-henning/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://olivier-flasseur.github.io/publication_types/2/</loc>
-    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://olivier-flasseur.github.io/authors/a.-amorim/</loc>
-    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://olivier-flasseur.github.io/authors/a.-boccaletti/</loc>
     <lastmod>2020-08-21T00:00:00+00:00</lastmod>
   </url>
   
@@ -269,26 +839,6 @@
   
   <url>
     <loc>https://olivier-flasseur.github.io/authors/a.-merand/</loc>
-    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://olivier-flasseur.github.io/authors/a.-vigan/</loc>
-    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://olivier-flasseur.github.io/authors/a.-zurlo/</loc>
-    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://olivier-flasseur.github.io/authors/a.-l.-maire/</loc>
-    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://olivier-flasseur.github.io/authors/a.-m.-lagrange/</loc>
     <lastmod>2020-08-21T00:00:00+00:00</lastmod>
   </url>
   
@@ -353,11 +903,6 @@
   </url>
   
   <url>
-    <loc>https://olivier-flasseur.github.io/authors/g.-chauvin/</loc>
-    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://olivier-flasseur.github.io/authors/g.-duvert/</loc>
     <lastmod>2020-08-21T00:00:00+00:00</lastmod>
   </url>
@@ -383,27 +928,7 @@
   </url>
   
   <url>
-    <loc>https://olivier-flasseur.github.io/authors/g.-rousset/</loc>
-    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://olivier-flasseur.github.io/authors/h.-beust/</loc>
-    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://olivier-flasseur.github.io/authors/h.-le-coroller/</loc>
-    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://olivier-flasseur.github.io/authors/j.-girard/</loc>
-    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://olivier-flasseur.github.io/authors/j.-hagelberg/</loc>
     <lastmod>2020-08-21T00:00:00+00:00</lastmod>
   </url>
   
@@ -458,32 +983,12 @@
   </url>
   
   <url>
-    <loc>https://olivier-flasseur.github.io/authors/l.-rodet/</loc>
-    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://olivier-flasseur.github.io/authors/m.-bonnefoy/</loc>
-    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://olivier-flasseur.github.io/authors/m.-horrobin/</loc>
     <lastmod>2020-08-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://olivier-flasseur.github.io/authors/m.-janson/</loc>
-    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://olivier-flasseur.github.io/authors/m.-nowak/</loc>
-    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://olivier-flasseur.github.io/authors/n.-meunier/</loc>
     <lastmod>2020-08-21T00:00:00+00:00</lastmod>
   </url>
   
@@ -494,11 +999,6 @@
   
   <url>
     <loc>https://olivier-flasseur.github.io/authors/o.-straub/</loc>
-    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://olivier-flasseur.github.io/authors/p.-delorme/</loc>
     <lastmod>2020-08-21T00:00:00+00:00</lastmod>
   </url>
   
@@ -518,22 +1018,12 @@
   </url>
   
   <url>
-    <loc>https://olivier-flasseur.github.io/authors/p.-rubini/</loc>
-    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://olivier-flasseur.github.io/authors/p.-thebault/</loc>
     <lastmod>2020-08-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://olivier-flasseur.github.io/authors/p.t.-de-zeeuw/</loc>
-    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://olivier-flasseur.github.io/publication/</loc>
     <lastmod>2020-08-21T00:00:00+00:00</lastmod>
   </url>
   
@@ -548,27 +1038,12 @@
   </url>
   
   <url>
-    <loc>https://olivier-flasseur.github.io/authors/r.-galicher/</loc>
-    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://olivier-flasseur.github.io/authors/r.-garcia-lopez/</loc>
     <lastmod>2020-08-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://olivier-flasseur.github.io/authors/r.-genzel/</loc>
-    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://olivier-flasseur.github.io/authors/r.-gratton/</loc>
-    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://olivier-flasseur.github.io/authors/s.-desidera/</loc>
     <lastmod>2020-08-21T00:00:00+00:00</lastmod>
   </url>
   
@@ -588,11 +1063,6 @@
   </url>
   
   <url>
-    <loc>https://olivier-flasseur.github.io/authors/s.-messina/</loc>
-    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://olivier-flasseur.github.io/authors/t.-henning/</loc>
     <lastmod>2020-08-21T00:00:00+00:00</lastmod>
   </url>
@@ -604,11 +1074,6 @@
   
   <url>
     <loc>https://olivier-flasseur.github.io/authors/t.-paumard/</loc>
-    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://olivier-flasseur.github.io/authors/t.-schmidt/</loc>
     <lastmod>2020-08-21T00:00:00+00:00</lastmod>
   </url>
   
@@ -638,22 +1103,12 @@
   </url>
   
   <url>
-    <loc>https://olivier-flasseur.github.io/authors/w.-brandner/</loc>
-    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://olivier-flasseur.github.io/authors/x.-haubois/</loc>
     <lastmod>2020-08-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://olivier-flasseur.github.io/authors/y.-clenet/</loc>
-    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://olivier-flasseur.github.io/authors/z.-wahhaj/</loc>
     <lastmod>2020-08-21T00:00:00+00:00</lastmod>
   </url>
   
@@ -733,52 +1188,7 @@
   </url>
   
   <url>
-    <loc>https://olivier-flasseur.github.io/authors/a.-cheetham/</loc>
-    <lastmod>2019-10-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://olivier-flasseur.github.io/authors/a.-muller/</loc>
-    <lastmod>2019-10-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://olivier-flasseur.github.io/authors/c.-lazzoni/</loc>
-    <lastmod>2019-10-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://olivier-flasseur.github.io/authors/c.-perrot/</loc>
-    <lastmod>2019-10-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://olivier-flasseur.github.io/authors/d.-rouan/</loc>
-    <lastmod>2019-10-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://olivier-flasseur.github.io/authors/e.-cascone/</loc>
-    <lastmod>2019-10-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://olivier-flasseur.github.io/authors/e.-lagadec/</loc>
-    <lastmod>2019-10-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://olivier-flasseur.github.io/authors/e.l.-rickman/</loc>
-    <lastmod>2019-10-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://olivier-flasseur.github.io/authors/f.-menard/</loc>
-    <lastmod>2019-10-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://olivier-flasseur.github.io/authors/f.-wildi/</loc>
     <lastmod>2019-10-24T00:00:00+00:00</lastmod>
   </url>
   
@@ -793,42 +1203,7 @@
   </url>
   
   <url>
-    <loc>https://olivier-flasseur.github.io/authors/j.-milli/</loc>
-    <lastmod>2019-10-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://olivier-flasseur.github.io/authors/j.-f.-sauvage/</loc>
-    <lastmod>2019-10-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://olivier-flasseur.github.io/authors/j.-l.-baudino/</loc>
-    <lastmod>2019-10-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://olivier-flasseur.github.io/authors/l.-weber/</loc>
-    <lastmod>2019-10-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://olivier-flasseur.github.io/authors/m.-feldt/</loc>
-    <lastmod>2019-10-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://olivier-flasseur.github.io/authors/m.-meyer/</loc>
-    <lastmod>2019-10-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://olivier-flasseur.github.io/authors/p.-martinez/</loc>
-    <lastmod>2019-10-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://olivier-flasseur.github.io/authors/r.-ligi/</loc>
     <lastmod>2019-10-24T00:00:00+00:00</lastmod>
   </url>
   
@@ -849,16 +1224,6 @@
   
   <url>
     <loc>https://olivier-flasseur.github.io/authors/s.-petrus/</loc>
-    <lastmod>2019-10-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://olivier-flasseur.github.io/authors/s.-rochat/</loc>
-    <lastmod>2019-10-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://olivier-flasseur.github.io/authors/v.-dorazi/</loc>
     <lastmod>2019-10-24T00:00:00+00:00</lastmod>
   </url>
   
@@ -898,37 +1263,7 @@
   </url>
   
   <url>
-    <loc>https://olivier-flasseur.github.io/authors/e.-sissa/</loc>
-    <lastmod>2019-06-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://olivier-flasseur.github.io/authors/f.-madec/</loc>
-    <lastmod>2019-06-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://olivier-flasseur.github.io/authors/j.-ramos/</loc>
-    <lastmod>2019-06-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://olivier-flasseur.github.io/authors/l.-gluck/</loc>
-    <lastmod>2019-06-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://olivier-flasseur.github.io/authors/m.-barbieri/</loc>
-    <lastmod>2019-06-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://olivier-flasseur.github.io/authors/t.-fusco/</loc>
-    <lastmod>2019-06-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://olivier-flasseur.github.io/authors/v.-de-caprio/</loc>
     <lastmod>2019-06-18T00:00:00+00:00</lastmod>
   </url>
   

@@ -1,0 +1,914 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.7.0">
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Olivier Flasseur">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="*Context.* Over the past decades, direct imaging has confirmed the existence of substellar companions (exoplanets or brown dwarfs) on wide orbits (&gt;10 au) from their host stars. To understand their formation and evolution mechanisms, we have initiated in 2015 the SPHERE infrared survey for exoplanets (SHINE), a systematic direct imaging survey of young, nearby stars to explore their demographics. &lt;br&gt; *Aims.* We aim to detect and characterize the population of giant planets and brown dwarfs beyond the snow line around young, nearby stars. Combined with the survey completeness, our observations offer the opportunity to constrain the statistical properties (occurrence, mass and orbital distributions, dependency on the stellar mass) of these young giant planets. &lt;br&gt; *Methods.* In this study, we present the observing and data analysis strategy, the ranking process of the detected candidates, and the survey performances for a subsample of 150 stars, which are representative of the full SHINE sample. The observations were conducted in an homogeneous way from February 2015 to February 2017 with the dedicated ground-based VLT/SPHERE instrument equipped with the IFS integral field spectrograph and the IRDIS dual-band imager covering a spectral range between 0.9 and 2.3 µm. We used coronographic, angular and spectral differential imaging techniques to reach the best detection performances for this study down to the planetary mass regime. &lt;br&gt; *Results.* We have processed in a uniform manner more than 300 SHINE observations and datasets to assess the survey typical sensitivity as a function of the host star, and of the observing conditions. The median detection performance reaches 5σ-contrasts of 13 mag at 200 mas and 14.2 mag at 800 mas with the IFS (YJ and YJH bands), and of 11.8 mag at 200 mas, 13.1 mag at 800 mas and 15.8 mag at 3 as with IRDIS in H band, delivering one of the deepest sensitivity surveys so far for young nearby stars. A total of sixteen substellar companions were imaged in this first part of SHINE: seven brown dwarf companions, and ten planetary-mass companions. They include the two new discoveries HIP 65426 b and HIP 64892 B, but not the planets around PDS70 not originally select in the SHINE core sample. A total of 1483 candidates were detected, mainly in the large field-of-view of IRDIS. Color-magnitude diagrams, low-resolution spectrum when available with IFS, and follow-up observations, enabled to identify the nature (background contaminant or comoving companion) of about 86 % of them. The remaining cases are often connected to crowded field missing follow-up observations. Finally, although SHINE was not designed for disk searches, twelve circumstellar disks were imaged including three new detections around the HIP 73145, HIP 86598 and HD 106906 systems. &lt;br&gt; *Conclusions.* Nowadays, direct imaging brings a unique opportunity to probe the outer part of exoplanetary systems beyond 10 au to explore planetary architectures as highlighted by the discoveries of one new exoplanet, one new brown dwarf companion, and three new debris disks during this early phase of SHINE. It also offers the opportunity to explore and revisit the physical and orbital properties of these young giant planets and brown dwarf companions (relative position, photometry and low resolution spectrum in near-infrared, predicted masses, contrast to search for additional companions). Finally, these results highlight the importance to finalize the SHINE systematic observation of about 500 young, nearby stars, for a full exploration of their outer part to explore the demographics of young giant planets beyond 10 au, and to nail down the most interesting systems for the next generation of high-contrast imagers on very large and extremely large telescopes.">
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://olivier-flasseur.github.io/publication/2021-aa-sphere-shine/">
+
+  
+
+
+  
+  
+  
+  <meta name="theme-color" content="#2962ff">
+  
+
+  
+  
+  
+  <script src="/js/mathjax-config.js"></script>
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css" integrity="sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+        
+      
+    
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.css" integrity="sha256-SHMGCYmST46SoyGgo4YR/9AlK1vf3ff84Aq9yK4hdqM=" crossorigin="anonymous">
+    
+
+    
+
+    
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.1.2/lazysizes.min.js" integrity="sha256-Md1qLToewPeKjfAHU1zyPwOutccPAm5tahnaw7Osw0A=" crossorigin="anonymous" async></script>
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
+      
+    
+      
+
+      
+      
+
+      
+    
+
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CRoboto:400,400italic,700%7CRoboto+Mono&display=swap">
+  
+
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/academic.css">
+
+  
+
+
+
+
+  
+
+
+  
+
+  <link rel="manifest" href="/index.webmanifest">
+  <link rel="icon" type="image/png" href="/images/icon_hu6fe43bd177ebbf8dec8879a690da4ed9_448_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu6fe43bd177ebbf8dec8879a690da4ed9_448_192x192_fill_lanczos_center_2.png">
+
+  <link rel="canonical" href="https://olivier-flasseur.github.io/publication/2021-aa-sphere-shine/">
+
+  
+  
+  
+  
+  
+    
+  
+  
+  <meta property="twitter:card" content="summary_large_image">
+  
+  <meta property="og:site_name" content="Olivier Flasseur">
+  <meta property="og:url" content="https://olivier-flasseur.github.io/publication/2021-aa-sphere-shine/">
+  <meta property="og:title" content="The SPHERE infrared survey for exoplanets (SHINE). II. Observations, data reduction and analysis, detection performances and early-results | Olivier Flasseur">
+  <meta property="og:description" content="*Context.* Over the past decades, direct imaging has confirmed the existence of substellar companions (exoplanets or brown dwarfs) on wide orbits (&gt;10 au) from their host stars. To understand their formation and evolution mechanisms, we have initiated in 2015 the SPHERE infrared survey for exoplanets (SHINE), a systematic direct imaging survey of young, nearby stars to explore their demographics. &lt;br&gt; *Aims.* We aim to detect and characterize the population of giant planets and brown dwarfs beyond the snow line around young, nearby stars. Combined with the survey completeness, our observations offer the opportunity to constrain the statistical properties (occurrence, mass and orbital distributions, dependency on the stellar mass) of these young giant planets. &lt;br&gt; *Methods.* In this study, we present the observing and data analysis strategy, the ranking process of the detected candidates, and the survey performances for a subsample of 150 stars, which are representative of the full SHINE sample. The observations were conducted in an homogeneous way from February 2015 to February 2017 with the dedicated ground-based VLT/SPHERE instrument equipped with the IFS integral field spectrograph and the IRDIS dual-band imager covering a spectral range between 0.9 and 2.3 µm. We used coronographic, angular and spectral differential imaging techniques to reach the best detection performances for this study down to the planetary mass regime. &lt;br&gt; *Results.* We have processed in a uniform manner more than 300 SHINE observations and datasets to assess the survey typical sensitivity as a function of the host star, and of the observing conditions. The median detection performance reaches 5σ-contrasts of 13 mag at 200 mas and 14.2 mag at 800 mas with the IFS (YJ and YJH bands), and of 11.8 mag at 200 mas, 13.1 mag at 800 mas and 15.8 mag at 3 as with IRDIS in H band, delivering one of the deepest sensitivity surveys so far for young nearby stars. A total of sixteen substellar companions were imaged in this first part of SHINE: seven brown dwarf companions, and ten planetary-mass companions. They include the two new discoveries HIP 65426 b and HIP 64892 B, but not the planets around PDS70 not originally select in the SHINE core sample. A total of 1483 candidates were detected, mainly in the large field-of-view of IRDIS. Color-magnitude diagrams, low-resolution spectrum when available with IFS, and follow-up observations, enabled to identify the nature (background contaminant or comoving companion) of about 86 % of them. The remaining cases are often connected to crowded field missing follow-up observations. Finally, although SHINE was not designed for disk searches, twelve circumstellar disks were imaged including three new detections around the HIP 73145, HIP 86598 and HD 106906 systems. &lt;br&gt; *Conclusions.* Nowadays, direct imaging brings a unique opportunity to probe the outer part of exoplanetary systems beyond 10 au to explore planetary architectures as highlighted by the discoveries of one new exoplanet, one new brown dwarf companion, and three new debris disks during this early phase of SHINE. It also offers the opportunity to explore and revisit the physical and orbital properties of these young giant planets and brown dwarf companions (relative position, photometry and low resolution spectrum in near-infrared, predicted masses, contrast to search for additional companions). Finally, these results highlight the importance to finalize the SHINE systematic observation of about 500 young, nearby stars, for a full exploration of their outer part to explore the demographics of young giant planets beyond 10 au, and to nail down the most interesting systems for the next generation of high-contrast imagers on very large and extremely large telescopes."><meta property="og:image" content="https://olivier-flasseur.github.io/publication/2021-aa-sphere-shine/featured.png">
+  <meta property="twitter:image" content="https://olivier-flasseur.github.io/publication/2021-aa-sphere-shine/featured.png"><meta property="og:locale" content="en-us">
+  
+    
+      <meta property="article:published_time" content="2021-02-06T00:00:01&#43;01:00">
+    
+    <meta property="article:modified_time" content="2021-02-06T00:00:00&#43;00:00">
+  
+
+  
+
+
+    
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://olivier-flasseur.github.io/publication/2021-aa-sphere-shine/"
+  },
+  "headline": "The SPHERE infrared survey for exoplanets (SHINE). II. Observations, data reduction and analysis, detection performances and early-results",
+  
+  "image": [
+    "https://olivier-flasseur.github.io/publication/2021-aa-sphere-shine/featured.png"
+  ],
+  
+  "datePublished": "2021-02-06T00:00:01+01:00",
+  "dateModified": "2021-02-06T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "M. Langlois"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Olivier Flasseur",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://olivier-flasseur.github.io/images/icon_hu6fe43bd177ebbf8dec8879a690da4ed9_448_192x192_fill_lanczos_center_2.png"
+    }
+  },
+  "description": "*Context.* Over the past decades, direct imaging has confirmed the existence of substellar companions (exoplanets or brown dwarfs) on wide orbits (\u003e10 au) from their host stars. To understand their formation and evolution mechanisms, we have initiated in 2015 the SPHERE infrared survey for exoplanets (SHINE), a systematic direct imaging survey of young, nearby stars to explore their demographics. \u003cbr\u003e *Aims.* We aim to detect and characterize the population of giant planets and brown dwarfs beyond the snow line around young, nearby stars. Combined with the survey completeness, our observations offer the opportunity to constrain the statistical properties (occurrence, mass and orbital distributions, dependency on the stellar mass) of these young giant planets. \u003cbr\u003e *Methods.* In this study, we present the observing and data analysis strategy, the ranking process of the detected candidates, and the survey performances for a subsample of 150 stars, which are representative of the full SHINE sample. The observations were conducted in an homogeneous way from February 2015 to February 2017 with the dedicated ground-based VLT/SPHERE instrument equipped with the IFS integral field spectrograph and the IRDIS dual-band imager covering a spectral range between 0.9 and 2.3 µm. We used coronographic, angular and spectral differential imaging techniques to reach the best detection performances for this study down to the planetary mass regime. \u003cbr\u003e *Results.* We have processed in a uniform manner more than 300 SHINE observations and datasets to assess the survey typical sensitivity as a function of the host star, and of the observing conditions. The median detection performance reaches 5σ-contrasts of 13 mag at 200 mas and 14.2 mag at 800 mas with the IFS (YJ and YJH bands), and of 11.8 mag at 200 mas, 13.1 mag at 800 mas and 15.8 mag at 3 as with IRDIS in H band, delivering one of the deepest sensitivity surveys so far for young nearby stars. A total of sixteen substellar companions were imaged in this first part of SHINE: seven brown dwarf companions, and ten planetary-mass companions. They include the two new discoveries HIP 65426 b and HIP 64892 B, but not the planets around PDS70 not originally select in the SHINE core sample. A total of 1483 candidates were detected, mainly in the large field-of-view of IRDIS. Color-magnitude diagrams, low-resolution spectrum when available with IFS, and follow-up observations, enabled to identify the nature (background contaminant or comoving companion) of about 86 % of them. The remaining cases are often connected to crowded field missing follow-up observations. Finally, although SHINE was not designed for disk searches, twelve circumstellar disks were imaged including three new detections around the HIP 73145, HIP 86598 and HD 106906 systems. \u003cbr\u003e *Conclusions.* Nowadays, direct imaging brings a unique opportunity to probe the outer part of exoplanetary systems beyond 10 au to explore planetary architectures as highlighted by the discoveries of one new exoplanet, one new brown dwarf companion, and three new debris disks during this early phase of SHINE. It also offers the opportunity to explore and revisit the physical and orbital properties of these young giant planets and brown dwarf companions (relative position, photometry and low resolution spectrum in near-infrared, predicted masses, contrast to search for additional companions). Finally, these results highlight the importance to finalize the SHINE systematic observation of about 500 young, nearby stars, for a full exploration of their outer part to explore the demographics of young giant planets beyond 10 au, and to nail down the most interesting systems for the next generation of high-contrast imagers on very large and extremely large telescopes."
+}
+</script>
+
+  
+
+  
+
+
+  
+
+
+  
+
+
+
+
+
+  <title>The SPHERE infrared survey for exoplanets (SHINE). II. Observations, data reduction and analysis, detection performances and early-results | Olivier Flasseur</title>
+
+</head>
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" >
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  
+
+
+
+
+
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+  <div class="container">
+
+    
+
+    
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+
+      
+      <ul class="navbar-nav d-md-inline-flex">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#about"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#experience"><span>Experience</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#publications"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+      </ul>
+    </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+      
+      <li class="nav-item">
+        <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
+      
+
+      
+      <li class="nav-item">
+        <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
+      </li>
+      
+
+      
+
+    </ul>
+
+  </div>
+</nav>
+
+
+  <div class="pub">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+
+
+<div class="article-container pt-3">
+  <h1>The SPHERE infrared survey for exoplanets (SHINE). II. Observations, data reduction and analysis, detection performances and early-results</h1>
+
+  
+  <p class="page-subtitle"><em>accepted in Astronomy &amp; Astrophysics</em></p>
+  
+
+  
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+
+
+  
+  <span>M. Langlois</span>, <span>R. Gratton</span>, <span>A.-M. Lagrange</span>, <span>P. Delorme</span>, <span>A. Boccaletti</span>, <span>M. Bonnefoy</span>, <span>A.-L. Maire</span>, <span>D. Mesa</span>, <span>G. Chauvin</span>, <span>S. Desidera</span>, <span>A. Vigan</span>, <span>A. Cheetham</span>, <span>J. Hagelberg</span>, <span>M. Feldt</span>, <span>M. Meyer</span>, <span>P. Rubini</span>, <span>H. Le Coroller</span>, <span>F. Cantalloube</span>, <span>B. Biller</span>, <span>M. Bonavita</span>, <span>T. Bhowmik</span>, <span>W. Brandner</span>, <span>S. Daemgen</span>, <span>V. D&rsquo;Orazi</span>, <span><strong>O. Flasseur</strong></span>, <span>C. Fontanive</span>, <span>R. Galicher</span>, <span>J. Girard</span>, <span>P. Janin-Potiron</span>, <span>M. Janson</span>, <span>M. Keppler</span>, <span>T. Kopytova</span>, <span>E. Lagadec</span>, <span>J. Lannier</span>, <span>C. Lazzoni</span>, <span>R. Ligi</span>, <span>N. Meunier</span>, <span>A. Perreti</span>, <span>C. Perrot</span>, <span>L. Rodet</span>, <span>C. Romero</span>, <span>D. Rouan</span>, <span>M. Samland</span>, <span>G. Salter</span>, <span>E. Sissa</span>, <span>T. Schmidt</span>, <span>A. Zurlo</span>, <span>D. Mouillet</span>, <span>L. Denis</span>, <span>E. Thiébaut</span>, <span>J. Milli</span>, <span>Z. Wahhaj</span>, <span>J.-L. Beuzit</span>, <span>C. Dominik</span>, <span>Th. Henning</span>, <span>F. Ménard</span>, <span>A. Müller</span>, <span>H.M. Schmid</span>, <span>M. Turatto</span>, <span>S. Udry</span>, <span>L. Abe</span>, <span>J. Antichi</span>, <span>F. Allard</span>, <span>A. Baruffolo</span>, <span>P. Baudoz</span>, <span>J. Baudrand</span>, <span>A. Bazzon</span>, <span>P. Blanchard</span>, <span>M. Carbillet</span>, <span>M. Carle</span>, <span>E. Cascone</span>, <span>J. Charton</span>, <span>R. Claudi</span>, <span>A. Costille</span>, <span>V. De Caprio</span>, <span>A. Delboulbé</span>, <span>K. Dohlen</span>, <span>D. Fantinel</span>, <span>P. Feautrier</span>, <span>T. Fusco</span>, <span>P. Gigan</span>, <span>E. Giro</span>, <span>D. Gisler</span>, <span>L. Gluck</span>, <span>C. Gry</span>, <span>N. Hubin</span>, <span>E. Hugot</span>, <span>M. Jaquet</span>, <span>M. Kasper</span>, <span>D. Le Mignant</span>, <span>M. Llored</span>, <span>F. Madec</span>, <span>Y. Magnard</span>, <span>P. Martinez</span>, <span>D. Maurel</span>, <span>S. Messina</span>, <span>O. Möller-Nilsson</span>, <span>L. Mugnier</span>, <span>T. Moulin</span>, <span>A. Origné</span>, <span>A. Pavlov</span>, <span>D. Perret</span>, <span>C. Petit</span>, <span>J. Pragt</span>, <span>P. Puget</span>, <span>P. Rabou</span>, <span>J. Ramos</span>, <span>F. Rigal</span>, <span>S. Rochat</span>, <span>R. Roelfsema</span>, <span>G. Rousset</span>, <span>A. Roux</span>, <span>B. Salasnich</span>, <span>J.-F. Sauvage</span>, <span>A. Sevin</span>, <span>C. Soenke</span>, <span>E. Stadler</span>, <span>M. Suarez</span>, <span>L. Weber</span>, <span>F. Wildi</span>, <span>E. Rickman</span>
+
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    February 2021
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="/categories/astronomy/">Astronomy</a></span>
+  
+
+</div>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/pdf/2103.03976.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://doi.org/https://doi.org/10.1051/0004-6361/202039753" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+</div>
+
+
+</div>
+
+
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 444px;">
+  <div style="position: relative">
+    <img src="/publication/2021-aa-sphere-shine/featured_huf6dc2c138f5d3e63af327a98be0ff704_1389576_720x0_resize_lanczos_2.png" alt="" class="featured-image">
+    <span class="article-header-caption">Examples of detection maps of the survey obtained with the PACO algorithm.</span>
+  </div>
+</div>
+
+
+
+  <div class="article-container">
+
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract"><em>Context.</em> Over the past decades, direct imaging has confirmed the existence of substellar companions (exoplanets or brown dwarfs) on wide orbits (&gt;10 au) from their host stars. To understand their formation and evolution mechanisms, we have initiated in 2015 the SPHERE infrared survey for exoplanets (SHINE), a systematic direct imaging survey of young, nearby stars to explore their demographics. <br> <em>Aims.</em> We aim to detect and characterize the population of giant planets and brown dwarfs beyond the snow line around young, nearby stars. Combined with the survey completeness, our observations offer the opportunity to constrain the statistical properties (occurrence, mass and orbital distributions, dependency on the stellar mass) of these young giant planets. <br> <em>Methods.</em> In this study, we present the observing and data analysis strategy, the ranking process of the detected candidates, and the survey performances for a subsample of 150 stars, which are representative of the full SHINE sample. The observations were conducted in an homogeneous way from February 2015 to February 2017 with the dedicated ground-based VLT/SPHERE instrument equipped with the IFS integral field spectrograph and the IRDIS dual-band imager covering a spectral range between 0.9 and 2.3 µm. We used coronographic, angular and spectral differential imaging techniques to reach the best detection performances for this study down to the planetary mass regime. <br> <em>Results.</em> We have processed in a uniform manner more than 300 SHINE observations and datasets to assess the survey typical sensitivity as a function of the host star, and of the observing conditions. The median detection performance reaches 5σ-contrasts of 13 mag at 200 mas and 14.2 mag at 800 mas with the IFS (YJ and YJH bands), and of 11.8 mag at 200 mas, 13.1 mag at 800 mas and 15.8 mag at 3 as with IRDIS in H band, delivering one of the deepest sensitivity surveys so far for young nearby stars. A total of sixteen substellar companions were imaged in this first part of SHINE: seven brown dwarf companions, and ten planetary-mass companions. They include the two new discoveries HIP 65426 b and HIP 64892 B, but not the planets around PDS70 not originally select in the SHINE core sample. A total of 1483 candidates were detected, mainly in the large field-of-view of IRDIS. Color-magnitude diagrams, low-resolution spectrum when available with IFS, and follow-up observations, enabled to identify the nature (background contaminant or comoving companion) of about 86 % of them. The remaining cases are often connected to crowded field missing follow-up observations. Finally, although SHINE was not designed for disk searches, twelve circumstellar disks were imaged including three new detections around the HIP 73145, HIP 86598 and HD 106906 systems. <br> <em>Conclusions.</em> Nowadays, direct imaging brings a unique opportunity to probe the outer part of exoplanetary systems beyond 10 au to explore planetary architectures as highlighted by the discoveries of one new exoplanet, one new brown dwarf companion, and three new debris disks during this early phase of SHINE. It also offers the opportunity to explore and revisit the physical and orbital properties of these young giant planets and brown dwarf companions (relative position, photometry and low resolution spectrum in near-infrared, predicted masses, contrast to search for additional companions). Finally, these results highlight the importance to finalize the SHINE systematic observation of about 500 young, nearby stars, for a full exploration of their outer part to explore the demographics of young giant planets beyond 10 au, and to nail down the most interesting systems for the next generation of high-contrast imagers on very large and extremely large telescopes.</p>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            
+            
+            <a href="/publication/#2">
+              Journal article
+            </a>
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+  </div>
+</div>
+
+      
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
+
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.4.4/mermaid.min.js" integrity="sha256-JEqEejGt4tR35L0a1zodzsV0/PJ6GIf7J4yDtywdrH8=" crossorigin="anonymous" title="mermaid"></script>
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/highlight.min.js" integrity="sha256-1zu+3BnLYV9LdiY85uXMzii3bdrkelyp37e0ZyTAQh0=" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/languages/r.min.js"></script>
+        
+      
+
+    
+
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.js" integrity="sha256-EErZamuLefUnbMBQbsEqu1USa+btR2oIlCpBJbyD4/g=" crossorigin="anonymous"></script>
+    
+
+    
+    
+    <script>const code_highlighting = true;</script>
+    
+
+    
+    
+    <script>const isSiteThemeDark = false;</script>
+    
+
+    
+    
+    
+    
+    
+    
+    <script>
+      const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
+      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
+
+    
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/js/academic.min.a8d7005002cb4a052fd6d721e83df9ba.js"></script>
+
+    
+
+
+
+
+
+
+  
+  
+  <div class="container">
+    <footer class="site-footer">
+  
+
+  <p class="powered-by">
+    
+
+    Last update: January 2021
+
+    
+    <span class="float-right" aria-hidden="true">
+      <a href="#" class="back-to-top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    
+  </p>
+</footer>
+
+  </div>
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
