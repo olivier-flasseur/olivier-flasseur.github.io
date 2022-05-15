@@ -5,12 +5,28 @@
     <link>https://olivier-flasseur.github.io/authors/t.-henning/</link>
       <atom:link href="https://olivier-flasseur.github.io/authors/t.-henning/index.xml" rel="self" type="application/rss+xml" />
     <description>T. Henning</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 21 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 04 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>T. Henning</title>
       <link>https://olivier-flasseur.github.io/authors/t.-henning/</link>
     </image>
+    
+    <item>
+      <title>A scaled-up planetary system around a supernova progenitor</title>
+      <link>https://olivier-flasseur.github.io/latest-news/2022-aa-supernovaprogenitor/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://olivier-flasseur.github.io/latest-news/2022-aa-supernovaprogenitor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A scaled-up planetary system around a supernova progenitor</title>
+      <link>https://olivier-flasseur.github.io/publication/2022-aa-supernovaprogenitor/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://olivier-flasseur.github.io/publication/2022-aa-supernovaprogenitor/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Unveiling the β Pictoris system, coupling high contrast imaging, interferometric, and radial velocity data</title>

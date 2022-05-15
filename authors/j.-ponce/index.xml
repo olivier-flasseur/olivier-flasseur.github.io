@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J. Ponce | Olivier Flasseur</title>
+    <link>https://olivier-flasseur.github.io/authors/j.-ponce/</link>
+      <atom:link href="https://olivier-flasseur.github.io/authors/j.-ponce/index.xml" rel="self" type="application/rss+xml" />
+    <description>J. Ponce</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 08 May 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>J. Ponce</title>
+      <link>https://olivier-flasseur.github.io/authors/j.-ponce/</link>
+    </image>
+    
+    <item>
+      <title>Exoplanet detection in angular differential imaging: combining a statistics-based learning with a deep-based learning for improved detections</title>
+      <link>https://olivier-flasseur.github.io/int-conf-publication/2022-spie-deeppaco/</link>
+      <pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://olivier-flasseur.github.io/int-conf-publication/2022-spie-deeppaco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exoplanet detection in angular differential imaging: combining a statistics-based learning with a deep-based learning for improved detections</title>
+      <link>https://olivier-flasseur.github.io/latest-news/2022-spie-deeppaco/</link>
+      <pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://olivier-flasseur.github.io/latest-news/2022-spie-deeppaco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New post-processing algorithms for exoplanet detection and circumstellar disk reconstruction by direct imaging</title>
+      <link>https://olivier-flasseur.github.io/int-conf-publication/2022-spie-lyot/</link>
+      <pubDate>Sat, 07 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://olivier-flasseur.github.io/int-conf-publication/2022-spie-lyot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New post-processing algorithms for exoplanet detection and circumstellar disk reconstruction by direct imaging</title>
+      <link>https://olivier-flasseur.github.io/latest-news/2022-spie-lyot/</link>
+      <pubDate>Sat, 07 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://olivier-flasseur.github.io/latest-news/2022-spie-lyot/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

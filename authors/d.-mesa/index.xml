@@ -5,12 +5,28 @@
     <link>https://olivier-flasseur.github.io/authors/d.-mesa/</link>
       <atom:link href="https://olivier-flasseur.github.io/authors/d.-mesa/index.xml" rel="self" type="application/rss+xml" />
     <description>D. Mesa</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 06 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 04 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>D. Mesa</title>
       <link>https://olivier-flasseur.github.io/authors/d.-mesa/</link>
     </image>
+    
+    <item>
+      <title>A scaled-up planetary system around a supernova progenitor</title>
+      <link>https://olivier-flasseur.github.io/latest-news/2022-aa-supernovaprogenitor/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://olivier-flasseur.github.io/latest-news/2022-aa-supernovaprogenitor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A scaled-up planetary system around a supernova progenitor</title>
+      <link>https://olivier-flasseur.github.io/publication/2022-aa-supernovaprogenitor/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://olivier-flasseur.github.io/publication/2022-aa-supernovaprogenitor/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The SPHERE infrared survey for exoplanets (SHINE). II. Observations, data reduction and analysis, detection performances and early-results</title>

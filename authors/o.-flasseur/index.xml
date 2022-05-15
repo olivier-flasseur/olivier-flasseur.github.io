@@ -5,12 +5,100 @@
     <link>https://olivier-flasseur.github.io/authors/o.-flasseur/</link>
       <atom:link href="https://olivier-flasseur.github.io/authors/o.-flasseur/index.xml" rel="self" type="application/rss+xml" />
     <description>**O. Flasseur**</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 11 May 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 08 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>**O. Flasseur**</title>
       <link>https://olivier-flasseur.github.io/authors/o.-flasseur/</link>
     </image>
+    
+    <item>
+      <title>Exoplanet detection in angular differential imaging: combining a statistics-based learning with a deep-based learning for improved detections</title>
+      <link>https://olivier-flasseur.github.io/int-conf-publication/2022-spie-deeppaco/</link>
+      <pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://olivier-flasseur.github.io/int-conf-publication/2022-spie-deeppaco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exoplanet detection in angular differential imaging: combining a statistics-based learning with a deep-based learning for improved detections</title>
+      <link>https://olivier-flasseur.github.io/latest-news/2022-spie-deeppaco/</link>
+      <pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://olivier-flasseur.github.io/latest-news/2022-spie-deeppaco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New post-processing algorithms for exoplanet detection and circumstellar disk reconstruction by direct imaging</title>
+      <link>https://olivier-flasseur.github.io/int-conf-publication/2022-spie-lyot/</link>
+      <pubDate>Sat, 07 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://olivier-flasseur.github.io/int-conf-publication/2022-spie-lyot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New post-processing algorithms for exoplanet detection and circumstellar disk reconstruction by direct imaging</title>
+      <link>https://olivier-flasseur.github.io/latest-news/2022-spie-lyot/</link>
+      <pubDate>Sat, 07 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://olivier-flasseur.github.io/latest-news/2022-spie-lyot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multispectral Image Reconstruction of Faint Circumstellar Environments from High Contrast Angular Spectral Differential Imaging (ASDI) Data</title>
+      <link>https://olivier-flasseur.github.io/int-conf-publication/2022-spie-rexpaco/</link>
+      <pubDate>Fri, 06 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://olivier-flasseur.github.io/int-conf-publication/2022-spie-rexpaco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multispectral Image Reconstruction of Faint Circumstellar Environments from High Contrast Angular Spectral Differential Imaging (ASDI) Data</title>
+      <link>https://olivier-flasseur.github.io/latest-news/2022-spie-rexpaco/</link>
+      <pubDate>Fri, 06 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://olivier-flasseur.github.io/latest-news/2022-spie-rexpaco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A new PACO based method to push the exoplanets detection limits and to estimate their orbital parameters simultaneously by combining multi-epoch direct imaging observations</title>
+      <link>https://olivier-flasseur.github.io/int-conf-publication/2022-spie-pacome/</link>
+      <pubDate>Thu, 05 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://olivier-flasseur.github.io/int-conf-publication/2022-spie-pacome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A new PACO based method to push the exoplanets detection limits and to estimate their orbital parameters simultaneously by combining multi-epoch direct imaging observations</title>
+      <link>https://olivier-flasseur.github.io/latest-news/2022-spie-pacome/</link>
+      <pubDate>Thu, 05 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://olivier-flasseur.github.io/latest-news/2022-spie-pacome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A scaled-up planetary system around a supernova progenitor</title>
+      <link>https://olivier-flasseur.github.io/latest-news/2022-aa-supernovaprogenitor/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://olivier-flasseur.github.io/latest-news/2022-aa-supernovaprogenitor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A scaled-up planetary system around a supernova progenitor</title>
+      <link>https://olivier-flasseur.github.io/publication/2022-aa-supernovaprogenitor/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://olivier-flasseur.github.io/publication/2022-aa-supernovaprogenitor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint unmixing and deconvolution for angular and spectral differential imaging</title>
+      <link>https://olivier-flasseur.github.io/latest-news/2022-sub-rexpacoasdi/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://olivier-flasseur.github.io/latest-news/2022-sub-rexpacoasdi/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>REXPACO: An algorithm for high contrast reconstruction of the circumstellar environment by angular differential imaging</title>
