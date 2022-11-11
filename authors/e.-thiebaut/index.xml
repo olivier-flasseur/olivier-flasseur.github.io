@@ -5,12 +5,20 @@
     <link>https://olivier-flasseur.github.io/authors/e.-thiebaut/</link>
       <atom:link href="https://olivier-flasseur.github.io/authors/e.-thiebaut/index.xml" rel="self" type="application/rss+xml" />
     <description>É. Thiébaut</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 06 May 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>É. Thiébaut</title>
       <link>https://olivier-flasseur.github.io/authors/e.-thiebaut/</link>
     </image>
+    
+    <item>
+      <title>Augmenter la limite de détection des exoplanètes par combinaison optimale d&#39;observations multi-époques en imagerie directe</title>
+      <link>https://olivier-flasseur.github.io/nat-conf-publication/2022-gretsi-pacome/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://olivier-flasseur.github.io/nat-conf-publication/2022-gretsi-pacome/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Multispectral Image Reconstruction of Faint Circumstellar Environments from High Contrast Angular Spectral Differential Imaging (ASDI) Data</title>
@@ -29,7 +37,7 @@
     </item>
     
     <item>
-      <title>A new PACO based method to push the exoplanets detection limits and to estimate their orbital parameters simultaneously by combining multi-epoch direct imaging observations</title>
+      <title>Optimal multi-epoch combination of direct imaging observations for improved exoplanet detection</title>
       <link>https://olivier-flasseur.github.io/int-conf-publication/2022-spie-pacome/</link>
       <pubDate>Thu, 05 May 2022 00:00:00 +0000</pubDate>
       <guid>https://olivier-flasseur.github.io/int-conf-publication/2022-spie-pacome/</guid>
@@ -37,10 +45,26 @@
     </item>
     
     <item>
-      <title>A new PACO based method to push the exoplanets detection limits and to estimate their orbital parameters simultaneously by combining multi-epoch direct imaging observations</title>
+      <title>Optimal multi-epoch combination of direct imaging observations for improved exoplanet detection</title>
       <link>https://olivier-flasseur.github.io/latest-news/2022-spie-pacome/</link>
       <pubDate>Thu, 05 May 2022 00:00:00 +0000</pubDate>
       <guid>https://olivier-flasseur.github.io/latest-news/2022-spie-pacome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A new PACO based method to push the exoplanets detection limits and to estimate their orbital parameters simultaneously by combining multi-epoch direct imaging observations</title>
+      <link>https://olivier-flasseur.github.io/int-conf-publication/2022-lyot-pacome/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://olivier-flasseur.github.io/int-conf-publication/2022-lyot-pacome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A new PACO based method to push the exoplanets detection limits and to estimate their orbital parameters simultaneously by combining multi-epoch direct imaging observations</title>
+      <link>https://olivier-flasseur.github.io/latest-news/2022-lyot-pacome/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://olivier-flasseur.github.io/latest-news/2022-lyot-pacome/</guid>
       <description></description>
     </item>
     
@@ -174,9 +198,9 @@
     
     <item>
       <title>Objects detection and characterization in images with weak signal-to-noise ratio: applications in microscopy and astronomy</title>
-      <link>https://olivier-flasseur.github.io/other-communication/2018-gretsisummerschool-work/</link>
+      <link>https://olivier-flasseur.github.io/other-communication/2018--gretsisummerschool-work/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://olivier-flasseur.github.io/other-communication/2018-gretsisummerschool-work/</guid>
+      <guid>https://olivier-flasseur.github.io/other-communication/2018--gretsisummerschool-work/</guid>
       <description></description>
     </item>
     

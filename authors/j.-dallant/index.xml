@@ -5,7 +5,7 @@
     <link>https://olivier-flasseur.github.io/authors/j.-dallant/</link>
       <atom:link href="https://olivier-flasseur.github.io/authors/j.-dallant/index.xml" rel="self" type="application/rss+xml" />
     <description>J. Dallant</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 05 May 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>J. Dallant</title>
@@ -13,7 +13,15 @@
     </image>
     
     <item>
-      <title>A new PACO based method to push the exoplanets detection limits and to estimate their orbital parameters simultaneously by combining multi-epoch direct imaging observations</title>
+      <title>Augmenter la limite de détection des exoplanètes par combinaison optimale d&#39;observations multi-époques en imagerie directe</title>
+      <link>https://olivier-flasseur.github.io/nat-conf-publication/2022-gretsi-pacome/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://olivier-flasseur.github.io/nat-conf-publication/2022-gretsi-pacome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal multi-epoch combination of direct imaging observations for improved exoplanet detection</title>
       <link>https://olivier-flasseur.github.io/int-conf-publication/2022-spie-pacome/</link>
       <pubDate>Thu, 05 May 2022 00:00:00 +0000</pubDate>
       <guid>https://olivier-flasseur.github.io/int-conf-publication/2022-spie-pacome/</guid>
@@ -21,10 +29,26 @@
     </item>
     
     <item>
-      <title>A new PACO based method to push the exoplanets detection limits and to estimate their orbital parameters simultaneously by combining multi-epoch direct imaging observations</title>
+      <title>Optimal multi-epoch combination of direct imaging observations for improved exoplanet detection</title>
       <link>https://olivier-flasseur.github.io/latest-news/2022-spie-pacome/</link>
       <pubDate>Thu, 05 May 2022 00:00:00 +0000</pubDate>
       <guid>https://olivier-flasseur.github.io/latest-news/2022-spie-pacome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A new PACO based method to push the exoplanets detection limits and to estimate their orbital parameters simultaneously by combining multi-epoch direct imaging observations</title>
+      <link>https://olivier-flasseur.github.io/int-conf-publication/2022-lyot-pacome/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://olivier-flasseur.github.io/int-conf-publication/2022-lyot-pacome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A new PACO based method to push the exoplanets detection limits and to estimate their orbital parameters simultaneously by combining multi-epoch direct imaging observations</title>
+      <link>https://olivier-flasseur.github.io/latest-news/2022-lyot-pacome/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://olivier-flasseur.github.io/latest-news/2022-lyot-pacome/</guid>
       <description></description>
     </item>
     
